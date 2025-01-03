@@ -1,0 +1,42 @@
+---
+title: "About"
+---
+
+::: {.callout-note}
+## Info
+__Instructor__: <a href='https://www.gastonsanchez.com' target='_blank'>Gaston Sanchez</a>
+
+__Lecture__: M 11am-12pm in [VLSB 2040](https://www.berkeley.edu/map/valley-life-sciences-building/)
+
+__Lab__:
+
+- Lab 101, W 9am-10am, Evans 342 (GSI Brian)
+- Lab 102, W 10am-11am, Evans 342 (GSI Brian)
+- Lab 103, W 1pm-2pm, Evans 342 (GSI Brian)
+- Lab 104, W 2pm-3pm, Evans 342 (GSI Brian)
+
+
+__Code #__: 24030
+
+__Units__: 1
+
+__Final Exam__: Tue May-13th, 7pm-10pm, location TBD.
+
+__Dates__: Jan-22 / May-02
+:::
+
+
+This course introduces the R statistical software to students with minimal prior exposure to programming.
+
+The course aims to prepare students to carry out a basic data analysis and to write simple functions. The focus is on the computational model that underlies the R language with the goal of providing a foundation for further coding.
+
+
+## More Information
+
+- [Schedule](.)
+- [Syllabus](./syllabus.html)
+- [Staff](./staff.html)
+- [Communication via email](./email.html)
+- [Ed Netiquette](./ed-netiquette.html)
+- [Q&As](./faqs.html)
+
