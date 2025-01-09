@@ -1,0 +1,442 @@
+- week: 1
+  days:
+    - date: "About"
+      items:
+        - type: "Overview"
+          id: ""
+          name: "None"
+          href: ""
+    - date: "Jan 20"
+      items:
+        - type: "Lecture"
+          id: ""
+          name: "No Lecture"
+          href: ""
+    - date: "Jan 22"
+      items:
+        - type: "Labwork"
+          name: "No Lab"
+          href: ""
+- week: 2
+  days:
+    - date: "About"
+      items:
+        - type: "Overview"
+          id: ""
+          name: "Unit 1: Introduction"
+          href: "./units/unit1.html"
+    - date: "Jan 27"
+      items:
+        - type: "Lecture"
+          id: ""
+          name: "Welcome to STAT 33B (slides)"
+          href: "slides/lec01-about.pdf"
+    - date: "Jan 29"
+      items:
+        - type: "Labwork"
+          name: "Lab 1: Intro to R and RStudio"
+          href: "https://bcourses.berkeley.edu/courses/1541245/assignments/8842192"
+    - date: "HW"
+      items:
+        - type: "Homework"
+          id: ""
+          name: "HW 1: Vectors (avail 2/01, due 2/14)"
+          href: "https://bcourses.berkeley.edu/courses/1541245/assignments/8842186"
+- week: 3
+  days:
+    - date: "About"
+      items:
+        - type: "Overview"
+          id: ""
+          name: "Unit 2: Vectors I"
+          href: "./units/unit2.html"
+    - date: "Feb 3"
+      items:
+        - type: "Lecture"
+          id: ""
+          name: "Vectors, part 1 (notes)"
+          href: "https://www.gastonsanchez.com/R-coding-basics/1-01-vectors-intro.html"
+          # auxil:
+          #   id: "Slides"
+          #   href: "slides/lec02-vectors-part1.pdf"
+          # auxil2:
+          #   id: "Demo"
+          #   href: "https://bcourses.berkeley.edu/courses/1541245/files/folder/demos?preview=90268962"
+        - type: "Lectur2"
+          id: ""
+          name: "Vectors, part 2 (notes)"
+          href: "https://www.gastonsanchez.com/R-coding-basics/1-02-vectors-properties.html"
+    - date: "Feb 5"
+      items:
+        - type: "Labwork"
+          id: ""
+          name: "Lab 2: Vectors  (due 2/06)"
+          href: "https://bcourses.berkeley.edu/courses/1541245/assignments/8842193"
+- week: 4
+  days:
+    - date: "About"
+      items:
+        - type: "Overview"
+          id: ""
+          name: "Unit 3: Vectors II"
+          href: "./units/unit3.html"
+    - date: "Feb 10"
+      items:
+        - type: "Lecture"
+          id: ""
+          name: "More about Vectors"
+          href: "https://www.gastonsanchez.com/R-coding-basics/1-03-vectors-creation.html"
+          # auxil:
+          #   id: "Slides"
+          #   href: "slides/lec03-vectors-part2.pdf"
+          # auxil2:
+          #   id: "Demo"
+          #   href: "https://bcourses.berkeley.edu/courses/1541245/files/folder/demos?preview=90268962"
+        - type: "Lectur2"
+          id: ""
+          name: "Vectors, part 4 (notes)"
+          href: "https://www.gastonsanchez.com/R-coding-basics/1-04-vectors-concepts.html"
+    - date: "Feb 12"
+      items:
+        - type: "Labwork"
+          id: ""
+          name: "Lab 3: More Vectors  (due 2/12)"
+          href: "https://bcourses.berkeley.edu/courses/1541245/assignments/8842194"
+    - date: "HW"
+      items:
+        - type: "Homework"
+          id: ""
+          name: "HW 2: Vectors (avail 2/15, due 2/28)"
+          href: "https://bcourses.berkeley.edu/courses/1541245/assignments/8842187"
+- week: 5
+  days:
+    - date: "About"
+      items:
+        - type: "Overview"
+          id: ""
+          name: "Unit 4: Other Objects"
+          href: "./units/unit4.html"
+    - date: "Feb 17"
+      items:
+        - type: "Lecture"
+          id: ""
+          name: "HOLIDAY"
+          href: ""
+          # auxil:
+          #   id: "Slides"
+          #   href: "slides/lec04-matrices.pdf"
+          # auxil2:
+          #   id: "Demo"
+          #   href: "https://bcourses.berkeley.edu/courses/1541245/files/folder/demos?preview=90268962"
+        - type: "Lectur2"
+          id: ""
+          name: "Matrices Operations (notes)"
+          href: "https://www.gastonsanchez.com/R-coding-basics/3-02-matrices-operations.html"
+    - date: "Feb 19"
+      items:
+        - type: "Labwork"
+          id: ""
+          name: "Lab 3: More Vectors  (due 2/12)"
+          href: "https://bcourses.berkeley.edu/courses/1541245/assignments/8842194"
+- week: 6
+  days:
+    - date: "About"
+      items:
+        - type: "Overview"
+          id: ""
+          name: "Unit 5: Lists"
+          href: "./units/unit5.html"
+    - date: "Feb 24"
+      items:
+        - type: "Lecture"
+          id: ""
+          name: "Lists"
+          href: "https://www.gastonsanchez.com/R-coding-basics/4-01-lists.html"
+          # auxil:
+          #   id: "Slides"
+          #   href: "slides/lec05-lists.pdf"
+          # auxil2:
+          #   id: "Demo"
+          #   href: "https://bcourses.berkeley.edu/courses/1541245/files/folder/demos?preview=90268962"
+    - date: "Feb 26"
+      items:
+        - type: "Labwork"
+          id: ""
+          name: "Lab 5: Lists (due 2/26)"
+          href: "https://bcourses.berkeley.edu/courses/1541245/assignments/8842196"
+    - date: "HW"
+      items:
+        - type: "Homework"
+          id: ""
+          name: "HW 3: Functions (avail 3/01, due 3/14)"
+          href: "https://bcourses.berkeley.edu/courses/1541245/assignments/8842188"
+- week: 7
+  days:
+    - date: "About"
+      items:
+        - type: "Overview"
+          id: ""
+          name: "Unit 6: Intro to Functions"
+          href: "./units/unit6.html"
+    - date: "Mar 3"
+      items:
+        - type: "Lecture"
+          id: ""
+          name: "Functions (notes)"
+          href: "https://www.gastonsanchez.com/R-coding-basics/5-01-functions-intro.html"
+          # auxil:
+          #   id: "Slides"
+          #   href: "slides/lec06-intro-functions.pdf"
+          # auxil2:
+          #   id: "Demo"
+          #   href: "https://bcourses.berkeley.edu/courses/1541245/files/folder/demos?preview=90268962"
+        - type: "Lectur2"
+          id: ""
+          name: "Expressions (notes)"
+          href: "https://www.gastonsanchez.com/R-coding-basics/5-02-expressions.html"
+    - date: "Mar 5"
+      items:
+        - type: "Labwork"
+          id: ""
+          name: "Lab 6: Functions (due 3/05)"
+          href: "https://bcourses.berkeley.edu/courses/1541245/assignments/8842197"
+    - date: "Mar 7"
+      items:
+        - type: "Quiz"
+          id: ""
+          name: "Quiz-1, More info TBA"
+          href: ""
+- week: 8
+  days:
+    - date: "About"
+      items:
+        - type: "Overview"
+          id: ""
+          name: "Unit 7: Conditionals"
+          href: "./units/unit7.html"
+    - date: "Mar 10"
+      items:
+        - type: "Lecture"
+          id: ""
+          name: "Conditionals (notes)"
+          href: "https://www.gastonsanchez.com/R-coding-basics/5-03-conditionals.html"
+          # auxil:
+          #   id: "Slides"
+          #   href: "slides/lec07-conditionals.pdf"
+          # auxil2:
+          #   id: "Demo"
+          #   href: "https://bcourses.berkeley.edu/courses/1541245/files/folder/demos?preview=90268962"
+    - date: "Mar 12"
+      items:
+        - type: "Labwork"
+          id: ""
+          name: "Lab 7: Conditionals (due 3/12)"
+          href: "https://bcourses.berkeley.edu/courses/1541245/assignments/8842198"
+    - date: "HW"
+      items:
+        - type: "Homework"
+          id: ""
+          name: "HW 4: Data Frames (avail 3/15, due 4/04)"
+          href: "https://bcourses.berkeley.edu/courses/1541245/assignments/8842189"
+- week: 9
+  days:
+    - date: "About"
+      items:
+        - type: "Overview"
+          id: ""
+          name: "Unit 8: Data Frames"
+          href: "./units/unit8.html"
+    - date: "Mar 17"
+      items:
+        - type: "Lecture"
+          id: ""
+          name: "Data Frames"
+          href: "https://www.gastonsanchez.com/R-coding-basics/4-02-data-frames.html"
+          # auxil:
+          #   id: "Slides"
+          #   href: "slides/lec08-data-frames.pdf"
+          # auxil2:
+          #   id: "Demo"
+          #   href: "https://bcourses.berkeley.edu/courses/1541245/files/folder/demos?preview=90268962"
+    - date: "Mar 19"
+      items:
+        - type: "Labwork"
+          id: ""
+          name: "Lab 8: Data Frames (due 3/18)"
+          href: "https://bcourses.berkeley.edu/courses/1541245/assignments/8842199"
+- week: "Spring Recess"
+  days:
+    - date: "Mar 24"
+      items:
+        - type: "Lectur2"
+          id: ""
+          name: "Spring Recess"
+          href: ""
+    - date: "Mar 26"
+      items:
+        - type: "Lectur2"
+          id: ""
+          name: "Spring Recess"
+          href: ""
+- week: 10
+  days:
+    - date: "About"
+      items:
+        - type: "Overview"
+          id: ""
+          name: "Unit 9: Loops"
+          href: "./units/unit9.html"
+    - date: "Mar 31"
+      items:
+        - type: "Lecture"
+          id: ""
+          name: "For Loops"
+          href: "https://www.gastonsanchez.com/R-coding-basics/5-04-for-loop.html"
+          # auxil:
+          #   id: "Slides"
+          #   href: "slides/stat133-01-objs1-vectors-part1.pdf"
+          # auxil2:
+          #   id: "Demo"
+          #   href: "https://bcourses.berkeley.edu/courses/1541245/files/folder/demos?preview=90268962"
+    - date: "Apr 2"
+      items:
+        - type: "Labwork"
+          id: ""
+          name: "Lab 9: For Loops (due 4/02)"
+          href: "https://bcourses.berkeley.edu/courses/1541245/assignments/8842200"
+    - date: "HW"
+      items:
+        - type: "Homework"
+          id: ""
+          name: "HW 5: Data Frames (avail 4/05, due 4/18)"
+          href: "https://bcourses.berkeley.edu/courses/1541245/assignments/8842190"
+- week: 11
+  days:
+    - date: "About"
+      items:
+        - type: "Overview"
+          id: ""
+          name: "Unit 10: More Loops"
+          href: "./units/unit10.html"
+    - date: "Apr 7"
+      items:
+        - type: "Lecture"
+          id: ""
+          name: "More Loops"
+          href: "https://www.gastonsanchez.com/R-coding-basics/5-05-while-loop.html"
+          # auxil:
+          #   id: "Slides"
+          #   href: "slides/stat133-01-objs1-vectors-part1.pdf"
+          # auxil2:
+          #   id: "Demo"
+          #   href: "https://bcourses.berkeley.edu/courses/1541245/files/folder/demos?preview=90268962"
+    - date: "Apr 9"
+      items:
+        - type: "Labwork"
+          id: ""
+          name: "Lab 10: While Loops (due 4/09)"
+          href: "https://bcourses.berkeley.edu/courses/1541245/assignments/8842201"
+    - date: "Apr 11"
+      items:
+        - type: "Quiz"
+          id: ""
+          name: "Quiz-2, More info TBA"
+          href: ""
+- week: 12
+  days:
+    - date: "About"
+      items:
+        - type: "Overview"
+          id: ""
+          name: "Unit 11: dplyr"
+          href: "./units/unit11.html"
+    - date: "Apr 14"
+      items:
+        - type: "Lecture"
+          id: ""
+          name: "Intro to dplyr"
+          href: "https://www.gastonsanchez.com/R-tidy-hurricanes/2-02-intro-dplyr.html"
+          # auxil:
+          #   id: "Slides"
+          #   href: "slides/stat133-01-objs1-vectors-part1.pdf"
+          # auxil2:
+          #   id: "Demo"
+          #   href: "https://bcourses.berkeley.edu/courses/1541245/files/folder/demos?preview=90268962"
+    - date: "Apr 16"
+      items:
+        - type: "Labwork"
+          id: ""
+          name: "Lab 11: Intro to dplyr (due 4/16)"
+          href: "https://bcourses.berkeley.edu/courses/1541245/assignments/8842202"
+    - date: "HW"
+      items:
+        - type: "Homework"
+          id: ""
+          name: "HW 6: dplyr & ggplot (avail 4/19, due 5/02)"
+          href: "https://bcourses.berkeley.edu/courses/1541245/assignments/8842191"
+- week: 13
+  days:
+    - date: "About"
+      items:
+        - type: "Overview"
+          id: ""
+          name: "Unit 12: ggplot"
+          href: "./units/unit12.html"
+    - date: "Apr 21"
+      items:
+        - type: "Lecture"
+          id: ""
+          name: "Intro to ggplot"
+          href: "https://www.gastonsanchez.com/R-tidy-hurricanes/2-01-intro-ggplot.html"
+          # auxil:
+          #   id: "Slides"
+          #   href: "slides/stat133-01-objs1-vectors-part1.pdf"
+          # auxil2:
+          #   id: "Demo"
+          #   href: "https://bcourses.berkeley.edu/courses/1541245/files/folder/demos?preview=90268962"
+    - date: "Apr 23"
+      items:
+        - type: "Labwork"
+          id: ""
+          name: "Lab 12: Intro to ggplot (due 4/23)"
+          href: "https://bcourses.berkeley.edu/courses/1541245/assignments/8842203"
+- week: 14
+  days:
+    - date: "About"
+      items:
+        - type: "Overview"
+          id: ""
+          name: "Unit 13: More dplyr & ggplot"
+          href: "./units/unit13.html"
+    - date: "Apr 28"
+      items:
+        - type: "Lecture"
+          id: ""
+          name: "More dplyr & ggplot"
+          href: "https://www.gastonsanchez.com/R-tidy-hurricanes/2-03-intro-pipes.html"
+          # auxil:
+          #   id: "Slides"
+          #   href: "slides/stat133-01-objs1-vectors-part1.pdf"
+          # auxil2:
+          #   id: "Demo"
+          #   href: "https://bcourses.berkeley.edu/courses/1541245/files/folder/demos?preview=90268962"
+    - date: "Apr 30"
+      items:
+        - type: "Labwork"
+          id: ""
+          name: "Lab 13: More dplyr & ggplot (due 4/30)"
+          href: "https://bcourses.berkeley.edu/courses/1541245/assignments/8842204"
+- week: 15
+  days:
+    - date: "About"
+      items:
+        - type: "Overview"
+          id: ""
+          name: "RRR Week"
+- week: 16
+  days:
+    - date: "May 13"
+      items:
+        - type: "Final"
+          id: ""
+          name: "Final Exam"
