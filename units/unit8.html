@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>1) Intro</title>
+<title>8) Iterations</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -90,7 +90,7 @@ gtag('config', 'G-CES9J82GLL', { 'anonymize_ip': true});
       <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" role="button" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
         <i class="bi bi-layout-text-sidebar-reverse"></i>
       </button>
-        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="../units/unit1.html">Units</a></li><li class="breadcrumb-item"><a href="../units/unit1.html">1) Intro</a></li></ol></nav>
+        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="../units/unit1.html">Units</a></li><li class="breadcrumb-item"><a href="../units/unit8.html">8) Iterations</a></li></ol></nav>
         <a class="flex-grow-1" role="navigation" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
         </a>
       <button type="button" class="btn quarto-search-button" aria-label="Search" onclick="window.quartoOpenSearch();">
@@ -150,7 +150,7 @@ gtag('config', 'G-CES9J82GLL', { 'anonymize_ip': true});
       <ul id="quarto-sidebar-section-1" class="collapse list-unstyled sidebar-section depth1 show">  
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../units/unit1.html" class="sidebar-item-text sidebar-link active">
+  <a href="../units/unit1.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">1) Intro</span></a>
   </div>
 </li>
@@ -192,7 +192,7 @@ gtag('config', 'G-CES9J82GLL', { 'anonymize_ip': true});
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../units/unit8.html" class="sidebar-item-text sidebar-link">
+  <a href="../units/unit8.html" class="sidebar-item-text sidebar-link active">
  <span class="menu-text">8) Iterations</span></a>
   </div>
 </li>
@@ -286,18 +286,18 @@ gtag('config', 'G-CES9J82GLL', { 'anonymize_ip': true});
    
   <ul>
   <li><a href="#lecture" id="toc-lecture" class="nav-link active" data-scroll-target="#lecture">📖 Lecture</a></li>
+  <li><a href="#objectives" id="toc-objectives" class="nav-link" data-scroll-target="#objectives">🎯 Objectives</a></li>
+  <li><a href="#reading" id="toc-reading" class="nav-link" data-scroll-target="#reading">📚 Reading</a></li>
   <li><a href="#lab" id="toc-lab" class="nav-link" data-scroll-target="#lab">🔬 Lab</a></li>
-  <li><a href="#activities" id="toc-activities" class="nav-link" data-scroll-target="#activities">🔔 Activities</a></li>
-  <li><a href="#install-r-rstudio" id="toc-install-r-rstudio" class="nav-link" data-scroll-target="#install-r-rstudio">📢 Install R &amp; RStudio</a></li>
   </ul>
 </nav>
     </div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
 
-<header id="title-block-header" class="quarto-title-block default"><nav class="quarto-page-breadcrumbs quarto-title-breadcrumbs d-none d-lg-block" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="../units/unit1.html">Units</a></li><li class="breadcrumb-item"><a href="../units/unit1.html">1) Intro</a></li></ol></nav>
+<header id="title-block-header" class="quarto-title-block default"><nav class="quarto-page-breadcrumbs quarto-title-breadcrumbs d-none d-lg-block" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="../units/unit1.html">Units</a></li><li class="breadcrumb-item"><a href="../units/unit8.html">8) Iterations</a></li></ol></nav>
 <div class="quarto-title">
-<h1 class="title">1) Intro</h1>
+<h1 class="title">8) Iterations</h1>
 </div>
 
 
@@ -316,30 +316,29 @@ gtag('config', 'G-CES9J82GLL', { 'anonymize_ip': true});
 
 <section id="lecture" class="level2">
 <h2 class="anchored" data-anchor-id="lecture">📖 Lecture</h2>
-<p>Welcome to STAT 33B. Our first meeting is on Monday Jan-27 where we begin with the usual review of the course policies, logistics, overall expectations, topics in a nutshell, etc.</p>
+<p>This week we introduce the syntax used by R to handle iteration constructs such as for loops and while loops.</p>
+</section>
+<section id="objectives" class="level2">
+<h2 class="anchored" data-anchor-id="objectives">🎯 Objectives</h2>
+<p>Get familiar with the syntax used in R for writing</p>
+<ul>
+<li><strong>for</strong> loops</li>
+<li><strong>while</strong> loops</li>
+<li>the <strong>next</strong> statement to skip iterations</li>
+<li>the <strong>break</strong> statement to stop loops from iterating</li>
+<li>and the family of <code>apply()</code> functions</li>
+</ul>
+</section>
+<section id="reading" class="level2">
+<h2 class="anchored" data-anchor-id="reading">📚 Reading</h2>
+<ul>
+<li><p><a href="https://www.gastonsanchez.com/R-coding-basics/5-04-for-loop.html" target="_blank">https://www.gastonsanchez.com/R-coding-basics/5-04-for-loop.html</a></p></li>
+<li><p><a href="https://www.gastonsanchez.com/R-coding-basics/5-05-while-loop.html" target="_blank">https://www.gastonsanchez.com/R-coding-basics/5-05-while-loop.html</a></p></li>
+</ul>
 </section>
 <section id="lab" class="level2">
 <h2 class="anchored" data-anchor-id="lab">🔬 Lab</h2>
-<p>The first lab is on Wednesday Jan-29 where you’ll get started with R and RStudio: first, we want to make sure everybody has installed both programs; and then we will provide an introductory review of RStudio’s workspace, as well as a brief intro to Quarto notebooks.</p>
-<p>Also, we’ll review the basics of Quarto Markdown (qmd) files, how to “compile” them and produce an HTML document. Also, you’ll have the opportunity to make sure you know how to submit a qmd &amp; HTML files to bCourses.</p>
-<p>BTW: there’s nothing to submit this week.</p>
-</section>
-<section id="activities" class="level2">
-<h2 class="anchored" data-anchor-id="activities">🔔 Activities</h2>
-<p>If you haven’t yet, please spend some time outside class to review the following documentation:</p>
-<ul>
-<li><a href="../syllabus.html" target="_blank">syllabus</a></li>
-<li><a href="../email.html" target="_blank">communication via email</a></li>
-<li><a href="../faqs.html" target="_blank">some frequently asked questions</a></li>
-</ul>
-</section>
-<section id="install-r-rstudio" class="level2">
-<h2 class="anchored" data-anchor-id="install-r-rstudio">📢 Install R &amp; RStudio</h2>
-<p>For those of you that don’t have either R or RStudio, download and install these programs (both are free, and they are available for Mac, Windows, and Linux computers)</p>
-<ul>
-<li><p><a href="https://cran.r-project.org/" target="_blank">Install R</a></p></li>
-<li><p><a href="https://www.rstudio.com/products/rstudio/download/#download" target="_blank">Install RStudio</a> (Desktop free version)</p></li>
-</ul>
+<p>Work with some basic examples using loops in R.</p>
 
 
 </section>
