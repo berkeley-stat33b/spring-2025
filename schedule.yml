@@ -35,20 +35,20 @@
       items:
         - type: "Labwork"
           name: "Lab 1: Intro to R and RStudio"
-          href: "https://bcourses.berkeley.edu/courses/1541245/assignments/8842192"
+          href: "https://bcourses.berkeley.edu/courses/1541245/assignments/8843208"
     - date: "HW"
       items:
         - type: "Homework"
           id: ""
           name: "HW 1: Vectors (avail 2/01, due 2/14)"
-          href: "https://bcourses.berkeley.edu/courses/1541245/assignments/8842186"
+          href: "https://bcourses.berkeley.edu/courses/1541245/assignments/8843202"
 - week: 3
   days:
     - date: "About"
       items:
         - type: "Overview"
           id: ""
-          name: "Unit 2: Vectors I"
+          name: "Unit 2: Vectors"
           href: "./units/unit2.html"
     - date: "Feb 3"
       items:
@@ -71,20 +71,20 @@
         - type: "Labwork"
           id: ""
           name: "Lab 2: Vectors  (due 2/06)"
-          href: "https://bcourses.berkeley.edu/courses/1541245/assignments/8842193"
+          href: "https://bcourses.berkeley.edu/courses/1541245/assignments/8843209"
 - week: 4
   days:
     - date: "About"
       items:
         - type: "Overview"
           id: ""
-          name: "Unit 3: Vectors II"
+          name: "Unit 3: More Objects"
           href: "./units/unit3.html"
     - date: "Feb 10"
       items:
         - type: "Lecture"
           id: ""
-          name: "More about Vectors"
+          name: "Matrices and Lists"
           href: "https://www.gastonsanchez.com/R-coding-basics/1-03-vectors-creation.html"
           # auxil:
           #   id: "Slides"
@@ -100,21 +100,21 @@
       items:
         - type: "Labwork"
           id: ""
-          name: "Lab 3: More Vectors  (due 2/12)"
-          href: "https://bcourses.berkeley.edu/courses/1541245/assignments/8842194"
+          name: "Lab 3: More Objects  (due 2/13)"
+          href: "https://bcourses.berkeley.edu/courses/1541245/assignments/8843210"
     - date: "HW"
       items:
         - type: "Homework"
           id: ""
           name: "HW 2: Vectors (avail 2/15, due 2/28)"
-          href: "https://bcourses.berkeley.edu/courses/1541245/assignments/8842187"
+          href: "https://bcourses.berkeley.edu/courses/1541245/assignments/8843203"
 - week: 5
   days:
     - date: "About"
       items:
         - type: "Overview"
           id: ""
-          name: "Unit 4: Other Objects"
+          name: "Unit 4: Data Frames"
           href: "./units/unit4.html"
     - date: "Feb 17"
       items:
@@ -130,27 +130,27 @@
           #   href: "https://bcourses.berkeley.edu/courses/1541245/files/folder/demos?preview=90268962"
         - type: "Lectur2"
           id: ""
-          name: "Matrices Operations (notes)"
+          name: "Data Frames"
           href: "https://www.gastonsanchez.com/R-coding-basics/3-02-matrices-operations.html"
     - date: "Feb 19"
       items:
         - type: "Labwork"
           id: ""
-          name: "Lab 3: More Vectors  (due 2/12)"
-          href: "https://bcourses.berkeley.edu/courses/1541245/assignments/8842194"
+          name: "Lab 4: Data Frames  (due 2/20)"
+          href: "https://bcourses.berkeley.edu/courses/1541245/assignments/8843211"
 - week: 6
   days:
     - date: "About"
       items:
         - type: "Overview"
           id: ""
-          name: "Unit 5: Lists"
+          name: "Unit 5: Tables 1"
           href: "./units/unit5.html"
     - date: "Feb 24"
       items:
         - type: "Lecture"
           id: ""
-          name: "Lists"
+          name: "Tables & dplyr"
           href: "https://www.gastonsanchez.com/R-coding-basics/4-01-lists.html"
           # auxil:
           #   id: "Slides"
@@ -162,27 +162,27 @@
       items:
         - type: "Labwork"
           id: ""
-          name: "Lab 5: Lists (due 2/26)"
-          href: "https://bcourses.berkeley.edu/courses/1541245/assignments/8842196"
+          name: "Lab 5: dplyr (due 2/27)"
+          href: "https://bcourses.berkeley.edu/courses/1541245/assignments/8843213"
     - date: "HW"
       items:
         - type: "Homework"
           id: ""
           name: "HW 3: Functions (avail 3/01, due 3/14)"
-          href: "https://bcourses.berkeley.edu/courses/1541245/assignments/8842188"
+          href: "https://bcourses.berkeley.edu/courses/1541245/assignments/8843204"
 - week: 7
   days:
     - date: "About"
       items:
         - type: "Overview"
           id: ""
-          name: "Unit 6: Intro to Functions"
+          name: "Unit 6: Tables 2"
           href: "./units/unit6.html"
     - date: "Mar 3"
       items:
         - type: "Lecture"
           id: ""
-          name: "Functions (notes)"
+          name: "Tables & ggplot"
           href: "https://www.gastonsanchez.com/R-coding-basics/5-01-functions-intro.html"
           # auxil:
           #   id: "Slides"
@@ -190,16 +190,12 @@
           # auxil2:
           #   id: "Demo"
           #   href: "https://bcourses.berkeley.edu/courses/1541245/files/folder/demos?preview=90268962"
-        - type: "Lectur2"
-          id: ""
-          name: "Expressions (notes)"
-          href: "https://www.gastonsanchez.com/R-coding-basics/5-02-expressions.html"
     - date: "Mar 5"
       items:
         - type: "Labwork"
           id: ""
-          name: "Lab 6: Functions (due 3/05)"
-          href: "https://bcourses.berkeley.edu/courses/1541245/assignments/8842197"
+          name: "Lab 6: ggplot (due 3/06)"
+          href: "https://bcourses.berkeley.edu/courses/1541245/assignments/8843214"
     - date: "Mar 7"
       items:
         - type: "Quiz"
@@ -226,31 +222,35 @@
           # auxil2:
           #   id: "Demo"
           #   href: "https://bcourses.berkeley.edu/courses/1541245/files/folder/demos?preview=90268962"
+        - type: "Lectur2"
+          id: ""
+          name: "Expressions (notes)"
+          href: "https://www.gastonsanchez.com/R-coding-basics/5-02-expressions.html"
     - date: "Mar 12"
       items:
         - type: "Labwork"
           id: ""
-          name: "Lab 7: Conditionals (due 3/12)"
-          href: "https://bcourses.berkeley.edu/courses/1541245/assignments/8842198"
+          name: "Lab 7: Conditionals (due 3/13)"
+          href: "https://bcourses.berkeley.edu/courses/1541245/assignments/8843215"
     - date: "HW"
       items:
         - type: "Homework"
           id: ""
           name: "HW 4: Data Frames (avail 3/15, due 4/04)"
-          href: "https://bcourses.berkeley.edu/courses/1541245/assignments/8842189"
+          href: "https://bcourses.berkeley.edu/courses/1541245/assignments/8843205"
 - week: 9
   days:
     - date: "About"
       items:
         - type: "Overview"
           id: ""
-          name: "Unit 8: Data Frames"
+          name: "Unit 8: Iterations"
           href: "./units/unit8.html"
     - date: "Mar 17"
       items:
         - type: "Lecture"
           id: ""
-          name: "Data Frames"
+          name: "Iterations"
           href: "https://www.gastonsanchez.com/R-coding-basics/4-02-data-frames.html"
           # auxil:
           #   id: "Slides"
@@ -262,8 +262,8 @@
       items:
         - type: "Labwork"
           id: ""
-          name: "Lab 8: Data Frames (due 3/18)"
-          href: "https://bcourses.berkeley.edu/courses/1541245/assignments/8842199"
+          name: "Lab 8: Iterations (due 3/20)"
+          href: "https://bcourses.berkeley.edu/courses/1541245/assignments/8843216"
 - week: "Spring Recess"
   days:
     - date: "Mar 24"
@@ -284,13 +284,13 @@
       items:
         - type: "Overview"
           id: ""
-          name: "Unit 9: Loops"
+          name: "Unit 9: Functions"
           href: "./units/unit9.html"
     - date: "Mar 31"
       items:
         - type: "Lecture"
           id: ""
-          name: "For Loops"
+          name: "Functions"
           href: "https://www.gastonsanchez.com/R-coding-basics/5-04-for-loop.html"
           # auxil:
           #   id: "Slides"
@@ -302,27 +302,27 @@
       items:
         - type: "Labwork"
           id: ""
-          name: "Lab 9: For Loops (due 4/02)"
-          href: "https://bcourses.berkeley.edu/courses/1541245/assignments/8842200"
+          name: "Lab 9: Functions (due 4/03)"
+          href: "https://bcourses.berkeley.edu/courses/1541245/assignments/8843217"
     - date: "HW"
       items:
         - type: "Homework"
           id: ""
-          name: "HW 5: Data Frames (avail 4/05, due 4/18)"
-          href: "https://bcourses.berkeley.edu/courses/1541245/assignments/8842190"
+          name: "HW 5: Programming (avail 4/05, due 4/18)"
+          href: "https://bcourses.berkeley.edu/courses/1541245/assignments/8843206"
 - week: 11
   days:
     - date: "About"
       items:
         - type: "Overview"
           id: ""
-          name: "Unit 10: More Loops"
+          name: "Unit 10: More Functions"
           href: "./units/unit10.html"
     - date: "Apr 7"
       items:
         - type: "Lecture"
           id: ""
-          name: "More Loops"
+          name: "More Functions"
           href: "https://www.gastonsanchez.com/R-coding-basics/5-05-while-loop.html"
           # auxil:
           #   id: "Slides"
@@ -334,8 +334,8 @@
       items:
         - type: "Labwork"
           id: ""
-          name: "Lab 10: While Loops (due 4/09)"
-          href: "https://bcourses.berkeley.edu/courses/1541245/assignments/8842201"
+          name: "Lab 10: More programming (due 4/10)"
+          href: "https://bcourses.berkeley.edu/courses/1541245/assignments/8843218"
     - date: "Apr 11"
       items:
         - type: "Quiz"
@@ -348,13 +348,13 @@
       items:
         - type: "Overview"
           id: ""
-          name: "Unit 11: dplyr"
+          name: "Unit 11: Imports & Exports"
           href: "./units/unit11.html"
     - date: "Apr 14"
       items:
         - type: "Lecture"
           id: ""
-          name: "Intro to dplyr"
+          name: "Importing and Exporting"
           href: "https://www.gastonsanchez.com/R-tidy-hurricanes/2-02-intro-dplyr.html"
           # auxil:
           #   id: "Slides"
@@ -366,27 +366,27 @@
       items:
         - type: "Labwork"
           id: ""
-          name: "Lab 11: Intro to dplyr (due 4/16)"
-          href: "https://bcourses.berkeley.edu/courses/1541245/assignments/8842202"
+          name: "Lab 11: Imports & Exports (due 4/17)"
+          href: "https://bcourses.berkeley.edu/courses/1541245/assignments/8843212"
     - date: "HW"
       items:
         - type: "Homework"
           id: ""
-          name: "HW 6: dplyr & ggplot (avail 4/19, due 5/02)"
-          href: "https://bcourses.berkeley.edu/courses/1541245/assignments/8842191"
+          name: "HW 6: Programming (avail 4/19, due 5/02)"
+          href: "https://bcourses.berkeley.edu/courses/1541245/assignments/8843207"
 - week: 13
   days:
     - date: "About"
       items:
         - type: "Overview"
           id: ""
-          name: "Unit 12: ggplot"
+          name: "Unit 12: Scoping"
           href: "./units/unit12.html"
     - date: "Apr 21"
       items:
         - type: "Lecture"
           id: ""
-          name: "Intro to ggplot"
+          name: "Scoping, names and values"
           href: "https://www.gastonsanchez.com/R-tidy-hurricanes/2-01-intro-ggplot.html"
           # auxil:
           #   id: "Slides"
@@ -398,21 +398,21 @@
       items:
         - type: "Labwork"
           id: ""
-          name: "Lab 12: Intro to ggplot (due 4/23)"
-          href: "https://bcourses.berkeley.edu/courses/1541245/assignments/8842203"
+          name: "Lab 12: Scoping (due 4/24)"
+          href: "https://bcourses.berkeley.edu/courses/1541245/assignments/8843219"
 - week: 14
   days:
     - date: "About"
       items:
         - type: "Overview"
           id: ""
-          name: "Unit 13: More dplyr & ggplot"
+          name: "Unit 13: Performance"
           href: "./units/unit13.html"
     - date: "Apr 28"
       items:
         - type: "Lecture"
           id: ""
-          name: "More dplyr & ggplot"
+          name: "Measuring Performance"
           href: "https://www.gastonsanchez.com/R-tidy-hurricanes/2-03-intro-pipes.html"
           # auxil:
           #   id: "Slides"
@@ -424,8 +424,8 @@
       items:
         - type: "Labwork"
           id: ""
-          name: "Lab 13: More dplyr & ggplot (due 4/30)"
-          href: "https://bcourses.berkeley.edu/courses/1541245/assignments/8842204"
+          name: "Lab 13: Performance (due 5/01)"
+          href: "https://bcourses.berkeley.edu/courses/1541245/assignments/8843220"
 - week: 15
   days:
     - date: "About"
@@ -439,4 +439,4 @@
       items:
         - type: "Final"
           id: ""
-          name: "Final Exam"
+          name: "Final Exam 5/13 (7-10pm)"

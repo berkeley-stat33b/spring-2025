@@ -2,10 +2,12 @@ project:
   type: website
 
 website:
+  favicon: assets/favicon.ico
   site-url: https://stat33b.berkeley.edu/spring-2025/
+  google-analytics: G-CES9J82GLL
   sidebar:
     style: docked
-    title: "Stat 33b"
+    title: "STAT 33B <br><small>Spring 2025</small>"
     logo: assets/stat_bear.png
     logo-alt: "UC Berkeley Statistics logo"
     tools:
@@ -17,26 +19,43 @@ website:
         text: Home / Schedule
       - href: syllabus.qmd
         text: Syllabus
-      - href: staff.qmd
-        text: Staff
-      - href: calendar.qmd
-        text: Calendar
+      - href: about.qmd
+        text: About
       - section: "Units"
         contents:
           - units/unit1.qmd
-          - units/unit2.ipynb
+          - units/unit2.qmd
           - units/unit3.qmd
-      - href: data.qmd
-        text: Datasets
-      - href: license.qmd
-        text: License
+          - units/unit4.qmd
+          - units/unit5.qmd
+          - units/unit6.qmd
+          - units/unit7.qmd
+          - units/unit8.qmd
+          - units/unit9.qmd
+          - units/unit10.qmd
+          - units/unit11.qmd
+          - units/unit12.qmd
+          - units/unit13.qmd
+      - section: "Other"
+        contents:
+          - href: staff.qmd
+            text: Staff
+          - href: cheatsheets.qmd
+            text: Cheatsheets
+          - href: email.qmd
+            text: Email
+          - href: faqs.qmd
+            text: FAQs
+          - href: ed-netiquette.qmd
+            text: "Ed Netiquette"
+          - href: license.qmd
+            text: License
           
 
 format:
   html:
-    theme: cosmo
+    theme: yeti
+    fontsize: 0.9em
     css: assets/styles.css
     toc: true
-
-
 

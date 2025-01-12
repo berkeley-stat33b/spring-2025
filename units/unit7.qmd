@@ -1,0 +1,34 @@
+---
+title: "7) Conditionals"
+---
+
+
+## 📖 Lecture
+
+This week we introduce the notion of R expressions, and we provide the syntax used by R to handle if-else statements and related conditionals constructs.
+
+
+
+## 🎯 Objectives
+
+At the end of this week you will be able to:
+
+- Write if-else statements to handle simple conditions
+- Use the _vectorized_ function `ifelse()`
+- Describe what curly braces `{...}` are used for in R.
+ 
+
+
+## 📚 Reading
+
+- <a href="https://www.gastonsanchez.com/R-coding-basics/5-03-conditionals.html" target="_blank">https://www.gastonsanchez.com/R-coding-basics/5-03-conditionals.html</a>
+
+- <a href="https://www.gastonsanchez.com/R-coding-basics/5-02-expressions.html" target="_blank">https://www.gastonsanchez.com/R-coding-basics/5-02-expressions.html</a>
+
+
+
+## 🔬 Lab
+
+Work with some basic if-else statements and related functions.
+
+

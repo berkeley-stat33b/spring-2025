@@ -1,42 +1,37 @@
 ---
-title: "Unit 3: More"
-format:
-  html:
-    code-fold: show
-    code-tools: true
-    include-before-body:
-     - file: macros.md
-  pdf: 
-    include-before-body:
-     - file: macros.tex
+title: "3) Matrices and Lists"
 ---
 
-[UNDER CONSTRUCTION]
 
-This is an example of using qmd as the source document with pdf as one target. I've taken out the qmd stuff that doesn't seem to render to pdf.
+## 📖 Lecture
 
-## Evaluated Python code chunk, with a plot
+We continue describing more data objects in R such as
 
-```{python}
-import numpy as np
-x = np.random.normal(size=100)
-import matplotlib.pyplot as plt
-plt.hist(x)
-plt.show()
-np.mean(x)
-```
+- atomic objects: __matrices__ (and N-dim arrays)
+- non-atomic objects: __lists__
 
 
-## LaTeX
 
-$$
-\theta = \int_0^\infty f(x,\theta)d\theta
-$$
+## 🎯 Objectives
 
-## LaTeX macro
+At the end of this week you will be able to:
 
-> **Warning**: having `include-before-body` in the yaml header of this file, as seemingly needed to enable macros, causes extra space at top of page.
+- Create matrices with the function `matrix()`
+- Explain how R internally stores matrices
+- Describe why matrices are atomic objects
+- Describe in what sense a list is considered to be a non-atomic vector
+ 
 
-$$
-A = X \trans Y
-$$
+
+## 📚 Reading
+
+- <a href="https://www.gastonsanchez.com/R-coding-basics/3-01-matrices-intro.html" target="_blank">https://www.gastonsanchez.com/R-coding-basics/3-01-matrices-intro.html</a>
+
+- <a href="https://www.gastonsanchez.com/R-coding-basics/4-01-lists.html" target="_blank">https://www.gastonsanchez.com/R-coding-basics/4-01-lists.html</a>
+
+
+
+## 🔬 Lab
+
+More practice with data objects.
+

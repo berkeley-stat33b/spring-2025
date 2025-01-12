@@ -1,0 +1,31 @@
+---
+title: "10) More Programming"
+---
+
+
+## 📖 Lecture
+
+In this week, we continue discussing iterative constructs such as while loops and other idioms to handle repetitive steps in R.
+
+
+
+## 🎯 Objectives
+
+At the end of this week you will be able to:
+
+- Write while loops to repeat the same operation an unknown number of times
+ 
+
+
+## 📚 Reading
+
+- <a href="https://www.gastonsanchez.com/R-coding-basics/5-05-while-loop.html" target="_blank">https://www.gastonsanchez.com/R-coding-basics/5-05-while-loop.html</a>
+
+
+
+## 🔬 Lab
+
+You will work writing basic while loops in R.
+
+
+

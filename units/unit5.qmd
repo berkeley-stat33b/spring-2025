@@ -1,0 +1,37 @@
+---
+title: "5) dplyr"
+---
+
+
+## 📖 Lecture
+
+In addition to learning about the "classic" way to work with data frames, we will briefly touch on an "alternative" approach for working with tables provided by the ecosystem of packages known as the `"tidyverse"`: <https://www.tidyverse.org>
+
+This week we start with the tidyverse package `"dplyr"`. Simply put, `"dplyr"` comes with functions that allow you to manipulate data-tables (e.g. data-frames, and other 2-dimensional objects) using a modern and syntactic way.
+
+
+
+## 🎯 Objectives
+
+We'll go over the set of functions available in `"dplyr"` to perform common manipulations of tabular data.
+
+- Selecting rows with `slice()`, and `filter()`
+- Selecting columns with `select()`
+- Transforming columns with `mutate()`
+- Arranging rows with `arrange()`
+- Grouping data with `group_by()`
+- Summarizing data with `summarize()`  
+
+
+
+## 📚 Reading
+
+- <a href="https://www.gastonsanchez.com/R-tidy-hurricanes/2-02-intro-dplyr.html" target="_blank">https://www.gastonsanchez.com/R-tidy-hurricanes/2-02-intro-dplyr.html</a>
+
+
+
+## 🔬 Lab
+
+You will get introduced to manipulation of data-tables using a modern and syntactic way following the data plying framework provided by the R package dplyr.
+
+

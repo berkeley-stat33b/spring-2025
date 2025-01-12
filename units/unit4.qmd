@@ -1,0 +1,38 @@
+---
+title: "4) Data Frames"
+---
+
+
+## 📖 Lecture
+
+In this week, we discuss the basics of data frames, which are the dedicated object in R for handling tabular data sets.
+
+- practice manipulating data frames (the "classic" way)
+- describe in what sense a data frame is a list
+- describe in what sense a data frame is a two dimensional object
+
+
+
+## 🎯 Objectives
+
+At the end of this week you will be able to:
+
+- Describe and give examples of subsetting (subscripting, indexing) of an R data frame
+- provide a manipulation example with single brackets, and 2-dimensions (e.g. `dat[rows,cols]`)
+- provide a manipulation example with single brackets, and 1 dimension (e.g. `dat[wagons]`)
+- provide a manipulation example with double brackets, and a single element `dat[[wagon]])`)
+- provide a manipulation example with the dollar operator (e.g. `dat$wagon`)
+
+
+
+## 📚 Reading
+
+- <a href="https://www.gastonsanchez.com/R-coding-basics/4-02-data-frames.html" target="_blank">https://www.gastonsanchez.com/R-coding-basics/4-02-data-frames.html</a>
+
+
+
+## 🔬 Lab
+
+Manipulation of Data Frames.
+
+
