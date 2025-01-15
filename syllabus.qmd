@@ -110,14 +110,20 @@ Me (the instructor) and the GSI will offer office hours each week across a range
 ## 🕚 Late Submission Policy {#late-policy}
 
 Given that STAT 33B is a 1-unit course, unless you have applicable DSP accommodations, we won't be able to offer extensions. 
-Instead, we have the following late submission policy in case you are not able to turn in a HW assignment on time:
+
+In case you are not able to turn in a Lab assignment on time:
+
+- Submissions within 24 hours after the deadline will receive an 11% deduction.
+- Submissions that are 24 hours or more after the deadline will receive no credit.
+
+In case you are not able to turn in a HW assignment on time:
 
 - Submissions within 24 hours after the deadline will receive an 11% deduction.
 - Submissions within 48 hours after the deadline will receive a 22% deduction.
 - Submissions within 72 hours after the deadline will receive a 33% deduction.
 - Submissions that are 72 hours or more after the deadline will receive no credit.
 
-This late submission policy is in place to take care of any extenuating circumstances that prevent you from submitting a HW assignment by the due date.
+This late submission policy is in place to take care of any extenuating circumstances that prevent you from submitting a Lab or HW assignment by the due date.
 
 Please plan ahead and pace yourself. Don't wait until the last day to do an assignment. <br>
 <span style="background-color: #b1ff00;">__Don't wait until the last minute to submit your assignments.__</span>
