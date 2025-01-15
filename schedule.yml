@@ -84,8 +84,8 @@
       items:
         - type: "Lecture"
           id: ""
-          name: "Matrices and Lists"
-          href: "https://www.gastonsanchez.com/R-coding-basics/1-03-vectors-creation.html"
+          name: "Matrices (notes)"
+          href: "https://www.gastonsanchez.com/R-coding-basics/3-01-matrices-intro.html"
           # auxil:
           #   id: "Slides"
           #   href: "slides/lec03-vectors-part2.pdf"
@@ -94,8 +94,8 @@
           #   href: "https://bcourses.berkeley.edu/courses/1541245/files/folder/demos?preview=90268962"
         - type: "Lectur2"
           id: ""
-          name: "Vectors, part 4 (notes)"
-          href: "https://www.gastonsanchez.com/R-coding-basics/1-04-vectors-concepts.html"
+          name: "Lists (notes)"
+          href: "https://www.gastonsanchez.com/R-coding-basics/4-01-lists.html"
     - date: "Feb 12"
       items:
         - type: "Labwork"
@@ -131,7 +131,7 @@
         - type: "Lectur2"
           id: ""
           name: "Data Frames"
-          href: "https://www.gastonsanchez.com/R-coding-basics/3-02-matrices-operations.html"
+          href: "https://www.gastonsanchez.com/R-coding-basics/4-02-data-frames.html"
     - date: "Feb 19"
       items:
         - type: "Labwork"
@@ -151,7 +151,7 @@
         - type: "Lecture"
           id: ""
           name: "Tables & dplyr"
-          href: "https://www.gastonsanchez.com/R-coding-basics/4-01-lists.html"
+          href: "https://www.gastonsanchez.com/R-tidy-hurricanes/2-02-intro-dplyr.html"
           # auxil:
           #   id: "Slides"
           #   href: "slides/lec05-lists.pdf"
@@ -183,7 +183,7 @@
         - type: "Lecture"
           id: ""
           name: "Tables & ggplot"
-          href: "https://www.gastonsanchez.com/R-coding-basics/5-01-functions-intro.html"
+          href: "https://www.gastonsanchez.com/R-tidy-hurricanes/2-01-intro-ggplot.html"
           # auxil:
           #   id: "Slides"
           #   href: "slides/lec06-intro-functions.pdf"
@@ -250,14 +250,18 @@
       items:
         - type: "Lecture"
           id: ""
-          name: "Iterations"
-          href: "https://www.gastonsanchez.com/R-coding-basics/4-02-data-frames.html"
+          name: "For loops (notes)"
+          href: "https://www.gastonsanchez.com/R-coding-basics/5-04-for-loop.html"
           # auxil:
           #   id: "Slides"
           #   href: "slides/lec08-data-frames.pdf"
           # auxil2:
           #   id: "Demo"
           #   href: "https://bcourses.berkeley.edu/courses/1541245/files/folder/demos?preview=90268962"
+        - type: "Lectur2"
+          id: ""
+          name: "While loops (notes)"
+          href: "https://www.gastonsanchez.com/R-coding-basics/5-05-while-loop.html"
     - date: "Mar 19"
       items:
         - type: "Labwork"
@@ -290,8 +294,8 @@
       items:
         - type: "Lecture"
           id: ""
-          name: "Functions"
-          href: "https://www.gastonsanchez.com/R-coding-basics/5-04-for-loop.html"
+          name: "Functions (notes)"
+          href: "https://www.gastonsanchez.com/R-coding-basics/5-01-functions-intro.html"
           # auxil:
           #   id: "Slides"
           #   href: "slides/stat133-01-objs1-vectors-part1.pdf"
@@ -323,7 +327,7 @@
         - type: "Lecture"
           id: ""
           name: "More Functions"
-          href: "https://www.gastonsanchez.com/R-coding-basics/5-05-while-loop.html"
+          href: "https://www.gastonsanchez.com/R-coding-basics/5-06-more-functions.html"
           # auxil:
           #   id: "Slides"
           #   href: "slides/stat133-01-objs1-vectors-part1.pdf"
@@ -354,14 +358,18 @@
       items:
         - type: "Lecture"
           id: ""
-          name: "Importing and Exporting"
-          href: "https://www.gastonsanchez.com/R-tidy-hurricanes/2-02-intro-dplyr.html"
+          name: "Importing (notes)"
+          href: "https://www.gastonsanchez.com/R-coding-basics/6-02-import-tables.html"
           # auxil:
           #   id: "Slides"
           #   href: "slides/stat133-01-objs1-vectors-part1.pdf"
           # auxil2:
           #   id: "Demo"
           #   href: "https://bcourses.berkeley.edu/courses/1541245/files/folder/demos?preview=90268962"
+        - type: "Lectur2"
+          id: ""
+          name: "Exporting (notes)"
+          href: "https://www.gastonsanchez.com/R-coding-basics/6-03-exporting-data.html"
     - date: "Apr 16"
       items:
         - type: "Labwork"
@@ -386,8 +394,8 @@
       items:
         - type: "Lecture"
           id: ""
-          name: "Scoping, names and values"
-          href: "https://www.gastonsanchez.com/R-tidy-hurricanes/2-01-intro-ggplot.html"
+          name: "Names and values"
+          href: "https://adv-r.hadley.nz/names-values.html"
           # auxil:
           #   id: "Slides"
           #   href: "slides/stat133-01-objs1-vectors-part1.pdf"
@@ -412,14 +420,18 @@
       items:
         - type: "Lecture"
           id: ""
-          name: "Measuring Performance"
-          href: "https://www.gastonsanchez.com/R-tidy-hurricanes/2-03-intro-pipes.html"
+          name: "Performance"
+          href: "http://adv-r.had.co.nz/Performance.html"
           # auxil:
           #   id: "Slides"
           #   href: "slides/stat133-01-objs1-vectors-part1.pdf"
           # auxil2:
           #   id: "Demo"
           #   href: "https://bcourses.berkeley.edu/courses/1541245/files/folder/demos?preview=90268962"
+        - type: "Lectur2"
+          id: ""
+          name: "Profiling"
+          href: "http://adv-r.had.co.nz/Profiling.html"
     - date: "Apr 30"
       items:
         - type: "Labwork"
