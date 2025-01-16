@@ -61,7 +61,7 @@ Post such spoilers after the HW is due. That is totally fine. If you are not sur
 
 ## Ask questions about assignments only
 
-If you have questions, comments, or other concerns that are not related to assignments, please email your GSI or the instructor. We want to keep the focus of bCourses tools for assignments in Stat 133.
+If you have questions, comments, or other concerns that are not related to assignments, please email your GSI or the instructor. We want to keep the focus of bCourses tools for assignments in STAT 33B.
 
 
 
@@ -131,7 +131,7 @@ In summary, when you do ask for help, include details of what attempts you've ma
 
 
 
-### We reserve the right to delete any posts
+## We reserve the right to delete any posts
 
 We reserve the right to delete, move, or edit any posts, and even to make Ed-Discussion inactive, at any time, without previous notice.
 
