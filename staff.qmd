@@ -25,8 +25,8 @@ Office hours: <br>
 **GSI**: <a href="https://statistics.berkeley.edu/people/brian-fernando" target="_blank">Brian Fernando</a><br>
 `bmfernan`<br>
 Office hours:<br>
-- Day hh:mm-hh:mm, Evans TBD<br>
-- Day hh:mm-hh:mm, Evans TBD
+- Th 3-5pm, Evans 426<br>
+- Fr 2-4pm, Evans 426
 :::
 
 ::::
