@@ -92,9 +92,9 @@
           # auxil:
           #   id: "Slides"
           #   href: "slides/lec03-vectors-part2.pdf"
-          # auxil2:
-          #   id: "Demo"
-          #   href: "https://bcourses.berkeley.edu/courses/1541245/files/folder/demos?preview=90268962"
+          auxil:
+            id: "Demo"
+            href: "https://bcourses.berkeley.edu/courses/1541245/files/folder/demos?preview=90959125"
         - type: "Lectur2"
           id: ""
           name: "Lists (notes)"
