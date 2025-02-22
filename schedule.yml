@@ -171,7 +171,7 @@
       items:
         - type: "Homework"
           id: ""
-          name: "HW 3: Functions (avail 3/01, due 3/14)"
+          name: "HW 3: Tabless (avail 3/01, due 3/14)"
           href: "https://bcourses.berkeley.edu/courses/1541245/assignments/8843204"
 - week: 7
   days:
