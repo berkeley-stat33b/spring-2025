@@ -158,9 +158,9 @@
           # auxil:
           #   id: "Slides"
           #   href: "slides/lec05-lists.pdf"
-          # auxil2:
-          #   id: "Demo"
-          #   href: "https://bcourses.berkeley.edu/courses/1541245/files/folder/demos?preview=90268962"
+          auxil:
+            id: "Demo"
+            href: "https://bcourses.berkeley.edu/courses/1541245/files/folder/demos?preview=91101512"
     - date: "Feb 26"
       items:
         - type: "Labwork"
