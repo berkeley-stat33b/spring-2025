@@ -190,9 +190,9 @@
           # auxil:
           #   id: "Slides"
           #   href: "slides/lec06-intro-functions.pdf"
-          # auxil2:
-          #   id: "Demo"
-          #   href: "https://bcourses.berkeley.edu/courses/1541245/files/folder/demos?preview=90268962"
+          auxil:
+            id: "Demo"
+            href: "https://bcourses.berkeley.edu/courses/1541245/files/folder/demos?preview=91151288"
     - date: "Mar 5"
       items:
         - type: "Labwork"
