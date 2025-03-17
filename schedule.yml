@@ -141,6 +141,9 @@
           id: ""
           name: "Lab 4: Data Frames  (due 2/20)"
           href: "https://bcourses.berkeley.edu/courses/1541245/assignments/8843211"
+          auxil:
+            id: "Demo"
+            href: "https://bcourses.berkeley.edu/courses/1541245/files/folder/demos?preview=91091015"
 - week: 6
   days:
     - date: "About"
@@ -167,6 +170,9 @@
           id: ""
           name: "Lab 5: dplyr (due 2/27)"
           href: "https://bcourses.berkeley.edu/courses/1541245/assignments/8843213"
+          auxil:
+            id: "Demo"
+            href: "https://bcourses.berkeley.edu/courses/1541245/files/folder/demos?preview=91091016"
     - date: "HW"
       items:
         - type: "Homework"
@@ -203,7 +209,7 @@
       items:
         - type: "Quiz"
           id: ""
-          name: "Quiz-1, More info TBA"
+          name: "Quiz-1, See announcement on bCourses"
           href: ""
 - week: 8
   days:
@@ -222,9 +228,9 @@
           # auxil:
           #   id: "Slides"
           #   href: "slides/lec07-conditionals.pdf"
-          # auxil2:
-          #   id: "Demo"
-          #   href: "https://bcourses.berkeley.edu/courses/1541245/files/folder/demos?preview=90268962"
+          auxil:
+            id: "Demo"
+            href: "https://bcourses.berkeley.edu/courses/1541245/files/folder/demos?preview=91221900"
         - type: "Lectur2"
           id: ""
           name: "Expressions (notes)"
