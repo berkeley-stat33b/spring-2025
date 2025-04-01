@@ -264,9 +264,9 @@
           # auxil:
           #   id: "Slides"
           #   href: "slides/lec08-data-frames.pdf"
-          # auxil2:
-          #   id: "Demo"
-          #   href: "https://bcourses.berkeley.edu/courses/1541245/files/folder/demos?preview=90268962"
+          auxil:
+            id: "Demo"
+            href: "https://bcourses.berkeley.edu/courses/1541245/files/folder/demos?preview=91297890"
         - type: "Lectur2"
           id: ""
           name: "While loops (notes)"
@@ -308,9 +308,9 @@
           # auxil:
           #   id: "Slides"
           #   href: "slides/stat133-01-objs1-vectors-part1.pdf"
-          # auxil2:
-          #   id: "Demo"
-          #   href: "https://bcourses.berkeley.edu/courses/1541245/files/folder/demos?preview=90268962"
+          auxil:
+            id: "Demo"
+            href: "https://bcourses.berkeley.edu/courses/1541245/files/folder/demos?preview=91359699"
     - date: "Apr 2"
       items:
         - type: "Labwork"
