@@ -1,11 +1,15 @@
 ---
-title: "10) More Programming"
+title: "10) Imports & Exports I"
 ---
 
 
 ## 📖 Lecture
 
-In this week, we continue discussing iterative constructs such as while loops and other idioms to handle repetitive steps in R.
+This week, we'll talk about concepts and functions that have to do with so-called input(s)-output(s), or simply put, with importing and exporting operations. For example:
+
+- how to import a data table
+- how to import data values
+- how to import text content
 
 
 
@@ -13,19 +17,19 @@ In this week, we continue discussing iterative constructs such as while loops an
 
 At the end of this week you will be able to:
 
-- Write while loops to repeat the same operation an unknown number of times
- 
+- Import tables with `read.table()` and derived functions: `read.csv()`, `read.delim()`, etc
+- Use `scan()` to import data values
+- Import text with `readLines()`
 
 
 ## 📚 Reading
 
-- <a href="https://www.gastonsanchez.com/R-coding-basics/5-05-while-loop.html" target="_blank">https://www.gastonsanchez.com/R-coding-basics/5-05-while-loop.html</a>
+- <a href="https://www.gastonsanchez.com/R-coding-basics/6-02-import-tables.html" target="_blank">https://www.gastonsanchez.com/R-coding-basics/6-02-import-tables.html</a>
 
 
 
 ## 🔬 Lab
 
-You will work writing basic while loops in R.
-
+Work with some basic examples to import resources.
 
 

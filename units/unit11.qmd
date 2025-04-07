@@ -1,13 +1,12 @@
 ---
-title: "11) Imports & Exports"
+title: "11) Imports & Exports II"
 ---
 
 
 ## 📖 Lecture
 
-This week, we'll talk about concepts and functions that have to do with so-called input(s)-output(s), or simply put, with importing and exporting operations. For example:
+This week, we continue describing functions that have to do with so-called input(s)-output(s), or simply put, with importing and exporting operations. For example:
 
-- how to import a data table
 - how to export a data table
 - how to export a graphic to an image file
 - how to export function outputs to external files
@@ -18,7 +17,6 @@ This week, we'll talk about concepts and functions that have to do with so-calle
 
 At the end of this week you will be able to:
 
-- Import tables with `read.table()` and derived functions: `read.csv()`, `read.delim()`, etc
 - Use the `sink()` function to export output to external files
 - Provide an example for how to export an image with `png()` or `jpeg()` or `pdf()`
 - Describe the mechanics that R uses for reading-in data
@@ -27,7 +25,8 @@ At the end of this week you will be able to:
 
 ## 📚 Reading
 
-None
+- <a href="https://www.gastonsanchez.com/R-coding-basics/6-03-exporting-data.html" target="_blank">https://www.gastonsanchez.com/R-coding-basics/6-03-exporting-data.html</a>
+
 
 
 
