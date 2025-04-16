@@ -209,7 +209,7 @@
       items:
         - type: "Quiz"
           id: ""
-          name: "Quiz-1, See announcement on bCourses"
+          name: "Quiz-1, See announcements on bCourses"
           href: ""
 - week: 8
   days:
@@ -329,31 +329,28 @@
       items:
         - type: "Overview"
           id: ""
-          name: "Unit 10: More Functions"
+          name: "Unit 10: Imports & Exports I"
           href: "./units/unit10.html"
     - date: "Apr 7"
       items:
         - type: "Lecture"
           id: ""
-          name: "More Functions"
-          href: "https://www.gastonsanchez.com/R-coding-basics/5-06-more-functions.html"
-          # auxil:
-          #   id: "Slides"
-          #   href: "slides/stat133-01-objs1-vectors-part1.pdf"
-          # auxil2:
-          #   id: "Demo"
-          #   href: "https://bcourses.berkeley.edu/courses/1541245/files/folder/demos?preview=90268962"
+          name: "Importing (notes)"
+          href: "https://www.gastonsanchez.com/R-coding-basics/6-02-import-tables.html"
+          auxil:
+            id: "Demo"
+            href: "https://bcourses.berkeley.edu/courses/1541245/files/folder/demos?preview=91424508"
     - date: "Apr 9"
       items:
         - type: "Labwork"
           id: ""
-          name: "Lab 10: More programming (due 4/10)"
+          name: "Lab 10: Imports (due 4/10)"
           href: "https://bcourses.berkeley.edu/courses/1541245/assignments/8843218"
     - date: "Apr 11"
       items:
         - type: "Quiz"
           id: ""
-          name: "Quiz-2, More info TBA"
+          name: "Quiz-2, See announcements on bCourses"
           href: ""
 - week: 12
   days:
@@ -361,29 +358,22 @@
       items:
         - type: "Overview"
           id: ""
-          name: "Unit 11: Imports & Exports"
+          name: "Unit 11: Imports & Exports II"
           href: "./units/unit11.html"
     - date: "Apr 14"
       items:
         - type: "Lecture"
           id: ""
-          name: "Importing (notes)"
-          href: "https://www.gastonsanchez.com/R-coding-basics/6-02-import-tables.html"
-          # auxil:
-          #   id: "Slides"
-          #   href: "slides/stat133-01-objs1-vectors-part1.pdf"
-          # auxil2:
-          #   id: "Demo"
-          #   href: "https://bcourses.berkeley.edu/courses/1541245/files/folder/demos?preview=90268962"
-        - type: "Lectur2"
-          id: ""
           name: "Exporting (notes)"
           href: "https://www.gastonsanchez.com/R-coding-basics/6-03-exporting-data.html"
+          auxil:
+            id: "Demo"
+            href: "https://bcourses.berkeley.edu/courses/1541245/files/folder/demos?preview=91482546"
     - date: "Apr 16"
       items:
         - type: "Labwork"
           id: ""
-          name: "Lab 11: Imports & Exports (due 4/17)"
+          name: "Lab 11: Exports (due 4/17)"
           href: "https://bcourses.berkeley.edu/courses/1541245/assignments/8843212"
     - date: "HW"
       items:
