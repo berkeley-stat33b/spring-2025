@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>13) Performance</title>
+<title>13) Scoping</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -90,7 +90,7 @@ gtag('config', 'G-CES9J82GLL', { 'anonymize_ip': true});
       <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" role="button" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
         <i class="bi bi-layout-text-sidebar-reverse"></i>
       </button>
-        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="../units/unit1.html">Units</a></li><li class="breadcrumb-item"><a href="../units/unit13.html">13) Performance</a></li></ol></nav>
+        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="../units/unit1.html">Units</a></li><li class="breadcrumb-item"><a href="../units/unit13.html">13) Scoping</a></li></ol></nav>
         <a class="flex-grow-1" role="navigation" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
         </a>
       <button type="button" class="btn quarto-search-button" aria-label="Search" onclick="window.quartoOpenSearch();">
@@ -217,13 +217,13 @@ gtag('config', 'G-CES9J82GLL', { 'anonymize_ip': true});
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
   <a href="../units/unit12.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text">12) Scoping</span></a>
+ <span class="menu-text">12) Profiling</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
   <a href="../units/unit13.html" class="sidebar-item-text sidebar-link active">
- <span class="menu-text">13) Performance</span></a>
+ <span class="menu-text">13) Scoping</span></a>
   </div>
 </li>
       </ul>
@@ -295,9 +295,9 @@ gtag('config', 'G-CES9J82GLL', { 'anonymize_ip': true});
 <!-- main -->
 <main class="content" id="quarto-document-content">
 
-<header id="title-block-header" class="quarto-title-block default"><nav class="quarto-page-breadcrumbs quarto-title-breadcrumbs d-none d-lg-block" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="../units/unit1.html">Units</a></li><li class="breadcrumb-item"><a href="../units/unit13.html">13) Performance</a></li></ol></nav>
+<header id="title-block-header" class="quarto-title-block default"><nav class="quarto-page-breadcrumbs quarto-title-breadcrumbs d-none d-lg-block" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="../units/unit1.html">Units</a></li><li class="breadcrumb-item"><a href="../units/unit13.html">13) Scoping</a></li></ol></nav>
 <div class="quarto-title">
-<h1 class="title">13) Performance</h1>
+<h1 class="title">13) Scoping</h1>
 </div>
 
 
@@ -316,26 +316,27 @@ gtag('config', 'G-CES9J82GLL', { 'anonymize_ip': true});
 
 <section id="lecture" class="level2">
 <h2 class="anchored" data-anchor-id="lecture">📖 Lecture</h2>
-<p>This week we review more underlying principles that have to do with performance in R.</p>
+<p>This week we review more technical aspects of functions in R. Specifically, we will focus on the scoping mechanisms used by R to find the value of a variable.</p>
 </section>
 <section id="objectives" class="level2">
 <h2 class="anchored" data-anchor-id="objectives">🎯 Objectives</h2>
-<p>At the end of this week you will be able to:</p>
 <ul>
-<li>Provide an example of copy-on-modify policy</li>
-<li>Provide an example of the functions behind arithmetic operators</li>
+<li>Provide an example of “name masking”</li>
+<li>Provide an example of “functions versus variables”</li>
+<li>Provide an example of “fresh start”</li>
+<li>Provide an example of “dynamic lookup”</li>
 </ul>
 </section>
 <section id="reading" class="level2">
 <h2 class="anchored" data-anchor-id="reading">📚 Reading</h2>
 <ul>
-<li><p><a href="http://adv-r.had.co.nz/Performance.html" target="_blank">http://adv-r.had.co.nz/Performance.html</a></p></li>
-<li><p><a href="https://adv-r.hadley.nz/perf-measure.html" target="_blank">https://adv-r.hadley.nz/perf-measure.html</a></p></li>
+<li><p><a href="https://adv-r.hadley.nz/names-values.html" target="_blank">https://adv-r.hadley.nz/names-values.html</a></p></li>
+<li><p><a href="http://adv-r.had.co.nz/Environments.html" target="_blank">http://adv-r.had.co.nz/Environments.html</a></p></li>
 </ul>
 </section>
 <section id="lab" class="level2">
 <h2 class="anchored" data-anchor-id="lab">🔬 Lab</h2>
-<p>Practice measuring performance.</p>
+<p>Work with some basic examples to understand scoping rules and environments.</p>
 
 
 </section>
