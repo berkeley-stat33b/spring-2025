@@ -387,9 +387,39 @@
       items:
         - type: "Overview"
           id: ""
-          name: "Unit 12: Scoping"
+          name: "Unit 12: Performance"
           href: "./units/unit12.html"
     - date: "Apr 21"
+      items:
+        - type: "Lecture"
+          id: ""
+          name: "Performance"
+          href: "http://adv-r.had.co.nz/Performance.html"
+          # auxil:
+          #   id: "Slides"
+          #   href: "slides/stat133-01-objs1-vectors-part1.pdf"
+          auxil:
+            id: "Demo"
+            href: "https://bcourses.berkeley.edu/courses/1541245/files/folder/demos?preview=91577746"
+        - type: "Lectur2"
+          id: ""
+          name: "Profiling"
+          href: "http://adv-r.had.co.nz/Profiling.html"
+    - date: "Apr 23"
+      items:
+        - type: "Labwork"
+          id: ""
+          name: "Lab 12: Performance (due 4/24)"
+          href: "https://bcourses.berkeley.edu/courses/1541245/assignments/8843220"
+- week: 14
+  days:
+    - date: "About"
+      items:
+        - type: "Overview"
+          id: ""
+          name: "Unit 13: Scoping"
+          href: "./units/unit13.html"
+    - date: "Apr 28"
       items:
         - type: "Lecture"
           id: ""
@@ -401,42 +431,12 @@
           # auxil2:
           #   id: "Demo"
           #   href: "https://bcourses.berkeley.edu/courses/1541245/files/folder/demos?preview=90268962"
-    - date: "Apr 23"
-      items:
-        - type: "Labwork"
-          id: ""
-          name: "Lab 12: Scoping (due 4/24)"
-          href: "https://bcourses.berkeley.edu/courses/1541245/assignments/8843219"
-- week: 14
-  days:
-    - date: "About"
-      items:
-        - type: "Overview"
-          id: ""
-          name: "Unit 13: Performance"
-          href: "./units/unit13.html"
-    - date: "Apr 28"
-      items:
-        - type: "Lecture"
-          id: ""
-          name: "Performance"
-          href: "http://adv-r.had.co.nz/Performance.html"
-          # auxil:
-          #   id: "Slides"
-          #   href: "slides/stat133-01-objs1-vectors-part1.pdf"
-          # auxil2:
-          #   id: "Demo"
-          #   href: "https://bcourses.berkeley.edu/courses/1541245/files/folder/demos?preview=90268962"
-        - type: "Lectur2"
-          id: ""
-          name: "Profiling"
-          href: "http://adv-r.had.co.nz/Profiling.html"
     - date: "Apr 30"
       items:
         - type: "Labwork"
           id: ""
-          name: "Lab 13: Performance (due 5/01)"
-          href: "https://bcourses.berkeley.edu/courses/1541245/assignments/8843220"
+          name: "Lab 13: Scoping (due 5/01)"
+          href: "https://bcourses.berkeley.edu/courses/1541245/assignments/8843219"
 - week: 15
   days:
     - date: "About"

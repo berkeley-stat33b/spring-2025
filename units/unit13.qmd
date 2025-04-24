@@ -1,33 +1,35 @@
 ---
-title: "13) Performance"
+title: "13) Scoping"
 ---
 
 
 ## 📖 Lecture
 
-This week we review more underlying principles that have to do with performance in R.
+This week we review more technical aspects of functions in R. Specifically, we will focus on the scoping mechanisms used by R to find the value of a variable.
 
 
 
 ## 🎯 Objectives
 
-At the end of this week you will be able to:
+- Provide an example of "name masking"
+- Provide an example of "functions versus variables"
+- Provide an example of "fresh start"
+- Provide an example of "dynamic lookup"
 
-- Provide an example of copy-on-modify policy
-- Provide an example of the functions behind arithmetic operators
-  
 
 
 ## 📚 Reading
 
-- <a href="http://adv-r.had.co.nz/Performance.html" target="_blank">http://adv-r.had.co.nz/Performance.html</a>
+- <a href="https://adv-r.hadley.nz/names-values.html" target="_blank">https://adv-r.hadley.nz/names-values.html</a>
 
-- <a href="https://adv-r.hadley.nz/perf-measure.html" target="_blank">https://adv-r.hadley.nz/perf-measure.html</a>
+- <a href="http://adv-r.had.co.nz/Environments.html" target="_blank">http://adv-r.had.co.nz/Environments.html</a>
 
 
 
 ## 🔬 Lab
 
-Practice measuring performance.
+Work with some basic examples to understand scoping rules and environments.
+
+
 
 
