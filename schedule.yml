@@ -428,9 +428,16 @@
           # auxil:
           #   id: "Slides"
           #   href: "slides/stat133-01-objs1-vectors-part1.pdf"
-          # auxil2:
-          #   id: "Demo"
-          #   href: "https://bcourses.berkeley.edu/courses/1541245/files/folder/demos?preview=90268962"
+          auxil:
+            id: "Demo"
+            href: "https://bcourses.berkeley.edu/courses/1541245/files/folder/demos?preview=91612442"
+        - type: "Lectur2"
+          id: ""
+          name: "Scoping"
+          href: "https://adv-r.hadley.nz/functions.html#lexical-scoping"
+          auxil:
+            id: "Demo"
+            href: "https://bcourses.berkeley.edu/courses/1541245/files/folder/demos?preview=91612351"
     - date: "Apr 30"
       items:
         - type: "Labwork"
