@@ -903,7 +903,7 @@
     "href": "units/unit13.html#reading",
     "title": "13) Scoping",
     "section": "📚 Reading",
-    "text": "📚 Reading\n\nhttps://adv-r.hadley.nz/names-values.html\nhttp://adv-r.had.co.nz/Environments.html",
+    "text": "📚 Reading\n\nhttps://adv-r.hadley.nz/functions.html#lexical-scoping\nhttps://adv-r.hadley.nz/names-values.html\nhttp://adv-r.had.co.nz/Environments.html",
     "crumbs": [
       "Units",
       "13) Scoping"
