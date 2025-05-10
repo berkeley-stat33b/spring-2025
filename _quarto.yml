@@ -58,4 +58,5 @@ format:
     fontsize: 0.9em
     css: assets/styles.css
     toc: true
-
+    include-in-header:
+      file: siteimprove.html
