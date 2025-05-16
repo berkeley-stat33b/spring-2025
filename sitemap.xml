@@ -1,131 +1,91 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://stat33b.berkeley.edu/spring-2025/cheatsheets.html</loc>
-    <lastmod>2025-05-10T19:31:41.930Z</lastmod>
-  </url>
-  <url>
-    <loc>https://stat33b.berkeley.edu/spring-2025/spring-2025/calendar.html</loc>
-    <lastmod>2024-12-19T00:52:29.522Z</lastmod>
-  </url>
-  <url>
-    <loc>https://stat33b.berkeley.edu/spring-2025/spring-2025/syllabus.html</loc>
-    <lastmod>2024-12-19T00:52:29.523Z</lastmod>
-  </url>
-  <url>
-    <loc>https://stat33b.berkeley.edu/spring-2025/spring-2025/units/unit1.html</loc>
-    <lastmod>2024-12-19T00:52:29.523Z</lastmod>
-  </url>
-  <url>
-    <loc>https://stat33b.berkeley.edu/spring-2025/spring-2025/units/unit2.html</loc>
-    <lastmod>2024-12-19T00:52:29.523Z</lastmod>
-  </url>
-  <url>
-    <loc>https://stat33b.berkeley.edu/spring-2025/spring-2025/index.html</loc>
-    <lastmod>2024-12-19T00:52:29.522Z</lastmod>
+    <loc>https://stat33b.berkeley.edu/spring-2025/faqs.html</loc>
+    <lastmod>2025-05-16T22:07:26.893Z</lastmod>
   </url>
   <url>
     <loc>https://stat33b.berkeley.edu/spring-2025/syllabus.html</loc>
-    <lastmod>2025-05-10T19:31:41.956Z</lastmod>
-  </url>
-  <url>
-    <loc>https://stat33b.berkeley.edu/spring-2025/about.html</loc>
-    <lastmod>2025-05-10T19:31:41.929Z</lastmod>
-  </url>
-  <url>
-    <loc>https://stat33b.berkeley.edu/spring-2025/units/unit7.html</loc>
-    <lastmod>2025-05-10T19:31:41.957Z</lastmod>
-  </url>
-  <url>
-    <loc>https://stat33b.berkeley.edu/spring-2025/units/unit4.html</loc>
-    <lastmod>2025-05-10T19:31:41.956Z</lastmod>
-  </url>
-  <url>
-    <loc>https://stat33b.berkeley.edu/spring-2025/units/unit3.html</loc>
-    <lastmod>2025-05-10T19:31:41.956Z</lastmod>
-  </url>
-  <url>
-    <loc>https://stat33b.berkeley.edu/spring-2025/units/unit9.html</loc>
-    <lastmod>2025-05-10T19:31:41.957Z</lastmod>
-  </url>
-  <url>
-    <loc>https://stat33b.berkeley.edu/spring-2025/units/unit12.html</loc>
-    <lastmod>2025-05-10T19:31:41.956Z</lastmod>
+    <lastmod>2025-05-16T22:07:26.894Z</lastmod>
   </url>
   <url>
     <loc>https://stat33b.berkeley.edu/spring-2025/units/unit11.html</loc>
-    <lastmod>2025-05-10T19:31:41.956Z</lastmod>
+    <lastmod>2025-05-16T22:07:26.894Z</lastmod>
   </url>
   <url>
-    <loc>https://stat33b.berkeley.edu/spring-2025/index.html</loc>
-    <lastmod>2025-05-10T19:31:41.955Z</lastmod>
+    <loc>https://stat33b.berkeley.edu/spring-2025/units/unit4.html</loc>
+    <lastmod>2025-05-16T22:07:26.895Z</lastmod>
   </url>
   <url>
-    <loc>https://stat33b.berkeley.edu/spring-2025/email.html</loc>
-    <lastmod>2025-05-10T19:31:41.955Z</lastmod>
-  </url>
-  <url>
-    <loc>https://stat33b.berkeley.edu/spring-2025/ed-netiquette.html</loc>
-    <lastmod>2025-05-10T19:31:41.954Z</lastmod>
-  </url>
-  <url>
-    <loc>https://stat33b.berkeley.edu/spring-2025/faqs.html</loc>
-    <lastmod>2025-05-10T19:31:41.955Z</lastmod>
-  </url>
-  <url>
-    <loc>https://stat33b.berkeley.edu/spring-2025/units/unit10.html</loc>
-    <lastmod>2025-05-10T19:31:41.956Z</lastmod>
+    <loc>https://stat33b.berkeley.edu/spring-2025/units/unit9.html</loc>
+    <lastmod>2025-05-16T22:07:26.895Z</lastmod>
   </url>
   <url>
     <loc>https://stat33b.berkeley.edu/spring-2025/units/unit13.html</loc>
-    <lastmod>2025-05-10T19:31:41.956Z</lastmod>
-  </url>
-  <url>
-    <loc>https://stat33b.berkeley.edu/spring-2025/units/unit8.html</loc>
-    <lastmod>2025-05-10T19:31:41.957Z</lastmod>
-  </url>
-  <url>
-    <loc>https://stat33b.berkeley.edu/spring-2025/units/unit2.html</loc>
-    <lastmod>2025-05-10T19:31:41.956Z</lastmod>
+    <lastmod>2025-05-16T22:07:26.894Z</lastmod>
   </url>
   <url>
     <loc>https://stat33b.berkeley.edu/spring-2025/units/unit1.html</loc>
-    <lastmod>2025-05-10T19:31:41.956Z</lastmod>
+    <lastmod>2025-05-16T22:07:26.894Z</lastmod>
+  </url>
+  <url>
+    <loc>https://stat33b.berkeley.edu/spring-2025/units/unit3.html</loc>
+    <lastmod>2025-05-16T22:07:26.894Z</lastmod>
   </url>
   <url>
     <loc>https://stat33b.berkeley.edu/spring-2025/units/unit5.html</loc>
-    <lastmod>2025-05-10T19:31:41.956Z</lastmod>
+    <lastmod>2025-05-16T22:07:26.895Z</lastmod>
   </url>
   <url>
-    <loc>https://stat33b.berkeley.edu/spring-2025/units/unit6.html</loc>
-    <lastmod>2025-05-10T19:31:41.957Z</lastmod>
+    <loc>https://stat33b.berkeley.edu/spring-2025/email.html</loc>
+    <lastmod>2025-05-16T22:07:26.893Z</lastmod>
   </url>
   <url>
     <loc>https://stat33b.berkeley.edu/spring-2025/staff.html</loc>
-    <lastmod>2025-05-10T19:31:41.955Z</lastmod>
+    <lastmod>2025-05-16T22:07:26.894Z</lastmod>
+  </url>
+  <url>
+    <loc>https://stat33b.berkeley.edu/spring-2025/about.html</loc>
+    <lastmod>2025-05-16T22:07:26.857Z</lastmod>
+  </url>
+  <url>
+    <loc>https://stat33b.berkeley.edu/spring-2025/ed-netiquette.html</loc>
+    <lastmod>2025-05-16T22:07:26.893Z</lastmod>
+  </url>
+  <url>
+    <loc>https://stat33b.berkeley.edu/spring-2025/index.html</loc>
+    <lastmod>2025-05-16T22:07:26.893Z</lastmod>
+  </url>
+  <url>
+    <loc>https://stat33b.berkeley.edu/spring-2025/units/unit10.html</loc>
+    <lastmod>2025-05-16T22:07:26.894Z</lastmod>
+  </url>
+  <url>
+    <loc>https://stat33b.berkeley.edu/spring-2025/units/unit6.html</loc>
+    <lastmod>2025-05-16T22:07:26.895Z</lastmod>
+  </url>
+  <url>
+    <loc>https://stat33b.berkeley.edu/spring-2025/units/unit12.html</loc>
+    <lastmod>2025-05-16T22:07:26.894Z</lastmod>
+  </url>
+  <url>
+    <loc>https://stat33b.berkeley.edu/spring-2025/units/unit7.html</loc>
+    <lastmod>2025-05-16T22:07:26.895Z</lastmod>
+  </url>
+  <url>
+    <loc>https://stat33b.berkeley.edu/spring-2025/units/unit8.html</loc>
+    <lastmod>2025-05-16T22:07:26.895Z</lastmod>
+  </url>
+  <url>
+    <loc>https://stat33b.berkeley.edu/spring-2025/units/unit2.html</loc>
+    <lastmod>2025-05-16T22:07:26.894Z</lastmod>
   </url>
   <url>
     <loc>https://stat33b.berkeley.edu/spring-2025/license.html</loc>
-    <lastmod>2025-05-10T19:31:41.955Z</lastmod>
+    <lastmod>2025-05-16T22:07:26.894Z</lastmod>
   </url>
   <url>
-    <loc>https://stat33b.berkeley.edu/spring-2025/spring-2025/units/macros.html</loc>
-    <lastmod>2024-12-19T00:52:29.523Z</lastmod>
-  </url>
-  <url>
-    <loc>https://stat33b.berkeley.edu/spring-2025/spring-2025/units/unit3.html</loc>
-    <lastmod>2024-12-19T00:52:29.523Z</lastmod>
-  </url>
-  <url>
-    <loc>https://stat33b.berkeley.edu/spring-2025/spring-2025/staff.html</loc>
-    <lastmod>2024-12-19T00:52:29.523Z</lastmod>
-  </url>
-  <url>
-    <loc>https://stat33b.berkeley.edu/spring-2025/spring-2025/license.html</loc>
-    <lastmod>2024-12-19T00:52:29.522Z</lastmod>
-  </url>
-  <url>
-    <loc>https://stat33b.berkeley.edu/spring-2025/spring-2025/data.html</loc>
-    <lastmod>2024-12-19T00:52:29.522Z</lastmod>
+    <loc>https://stat33b.berkeley.edu/spring-2025/cheatsheets.html</loc>
+    <lastmod>2025-05-16T22:07:26.858Z</lastmod>
   </url>
 </urlset>

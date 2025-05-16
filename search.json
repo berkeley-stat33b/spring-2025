@@ -1,140 +1,14 @@
 [
   {
-    "objectID": "cheatsheets.html",
-    "href": "cheatsheets.html",
-    "title": "Cheat Sheets",
+    "objectID": "faqs.html",
+    "href": "faqs.html",
+    "title": "Some Frequently Asked Questions",
     "section": "",
-    "text": "Cheat sheets are your friends, use them at all times.\n\nrstudio-IDE-cheatsheet.pdf\nrmarkdown-cheatsheet-2.0.pdf\nbase-r-cheatsheet.pdf\ndplyr-cheatsheet.pdf\nggplot2-cheatsheet-2.1.pdf\ndata-import-cheatsheet.pdf",
+    "text": "Will STAT 33B be offered in hybrid mode (both in-person and remotely, simultaneously)?  No, STAT 33B will not be offered in hybrid mode. Instead, all classes and sections are to be delivered in-person. If you have time conflicts with lecture and/or section, please don’t take STAT 33B this semester.\n\nWill there be live webcast or recordings of lectures?  Unless Campus authorities decide to switch to remote instruction, there won’t be live webcast or live zoom recordings. With that said, lectures may be recorded for archival purposes, but not necessarily be shared with the class.\n\nDo you have a Covid (or other illness) policy?  Maintaining your health and that of the Berkeley community is of primary importance to course staff, so if you are feeling ill or have been exposed to illness, please do not come to class. All of the materials used in class will be posted either in this website or in bCourses. Likewise, you’re encouraged to reach out to fellow students to discuss the class materials or stop by office hours to chat with the GSI, the tutor, or the instructor.\nHaving said that, we expect you to attend lecture and lab. Past experience tells us that students who constantly miss lecture/lab tend to have a mediocre performance.\nAlso, missing lecture/lab does not give you the right to use OH as a replacement for receiving instruction. We are always willing to help you understand the learning materials during OH, but this also requires that you make an honest effort reviewing them before coming to OH.\n\nSTAT 33A or 33B?  You might be wondering what the difference is between STAT 33A and STAT 33B. Broadly speaking, the topics in STAT 33A are a subset of the topics in 33B.\n33A is designed for people that have never programmed before, the pace of certain parts is slower, and more examples are provided. 33A puts slightly more emphasis on data analysis packages than 33B. The primary goal of 33A is that students finish the course with the basic programming skills necessary for a typical data analysis or implementation of a simple algorithm.\n33B is designed for students with previous programming experience (not necessarily in R). The curriculum assumes students will already be familiar with programming concepts such as variables, if-else statements, loops, and functions, so these topics are covered more quickly than in 33A. The extra time is used to cover details about how R works at a lower level. The primary goal of 33B is that students finish the course with the programming skills necessary to help developing and maintaining software in R.\nBTW: STAT 33B is not supposed to be taken after STAT 33A.\n\nI am a concurrent student. What are my chances of enrolling in the class?  Depending on the size of the waitlist, and the available space in the labs, you may or may not have a chance to join the class. For example, there have been semesters in which only 10% of concurrent applications have been accepted. Likewise, there have been semesters in which 100% of concurrent applications have been accepted.\nKeep in mind that the approval process for concurrent enrollment students takes place between the 2nd and 3rd week of instruction, and it is a somewhat slow 2-step process, which takes some days, and it involves not only my intervention but also the participation of one of the advisors in the Dept. of Statistics.\n\nI am a grad student officially enrolled. Do you have a grading structure for grad students?  This semester we don’t have a special grading structure for graduate students. All students will be evaluated with the same criteria. See the course syllabus for more information about the grading structure.\n\nWhat if I join the class late?  If you join the class within the first two weeks, read the syllabus and lecture notes, take a look at bCourses to get a sense of any assignments that may have already passed, and visit office hours to check that you’re up to date with things.\nAfter two weeks into the semester, you’ll have too much material that you’ll need to make up, so you will have to wait to a subsequent semester to take STAT 33B.\n\nAre time conflicts allowed?  STAT 33B does not allow students to enroll with time conflicts.\n\nI would like to switch lab sections with other student. Is this possible?  You should attend the lab section you are officially enrolled in. If you have a time conflict, then do not enroll in STAT 33B this semester.\n\nIs this course a good fit if I don’t have any programming experience?  No. We expect that all of you come with previous coding experience and be already familiar with concepts such as data types, variables, functions, conditionals, and iterations.\n\nIs this course a good fit if I already have some programming experience?  It depends. This course should be a good fit if you are truly interested in learning about R and its “behind the scenes”. Having said that, if what you are looking for is a general programming course, or a statistical programming course, STAT 33B is not a good fit.\n\nCan we work in groups?  Yes, absolutely. We strongly encourage you to not work alone. Well, let me rephrase that. You should try to first work on your own (trial and error). Take notes of the things you don’t understand. Then get with other people and discuss ideas, share tips (but not the entire solution).\n\nAren’t you suppose to teach us?  Yes. But you don’t learn programming by watching someone else program. The same way that you don’t learn to swim by simply watching someone else swimming. You have to get into the pool, and do all the drills your instructor says. This is a very hands-on course, and you will be required to do a great amount of work on your own.\n\nCan I ask you to write me a Letter of Recommendation (LoR)?  One-unit courses do not provide me with enough information about students to write a strong letter of recommendation. Therefore, I am unwilling to provide a LoR based on your work on this course alone.\n\nI invited you to join my network in LinkedIn. Why haven’t you accepted my invitation?  First: Don’t take it personal. It’s not you, it’s me. Second: if you really want that I become part of your network, why don’t you talk to me in person? We can meet in OH, or you can also schedule a meeting at a different time. Let me know you better than just as a distant contact in a social media networking site.",
     "crumbs": [
       "Other",
-      "Cheatsheets"
+      "FAQs"
     ]
-  },
-  {
-    "objectID": "spring-2025/calendar.html",
-    "href": "spring-2025/calendar.html",
-    "title": "Calendar",
-    "section": "",
-    "text": "This is an example of embedding a widget with multiple calendars. This might be useful if you want to have different calendars for assignments, exams, instructor office hours, GSI office hours, etc."
-  },
-  {
-    "objectID": "spring-2025/calendar.html#course-calendar",
-    "href": "spring-2025/calendar.html#course-calendar",
-    "title": "Calendar",
-    "section": "",
-    "text": "This is an example of embedding a widget with multiple calendars. This might be useful if you want to have different calendars for assignments, exams, instructor office hours, GSI office hours, etc."
-  },
-  {
-    "objectID": "spring-2025/calendar.html#instructions",
-    "href": "spring-2025/calendar.html#instructions",
-    "title": "Calendar",
-    "section": "Instructions",
-    "text": "Instructions\nWe suggest that you delete these instructions before publishing your website.\n\nCreate the Calendars:\n\nGo to Google Calendar.\nOn the left sidebar, click the + sign next to “Other calendars” and select “Create new calendar”.\nCreate your calendars and name them appropriately.\n\nObtain the Embed Code for Each Calendar:\n\nFor each calendar, go to its settings by clicking on the three dots next to the calendar name and selecting “Settings and sharing”.\nIn the calendar settings, scroll down to “Integrate calendar” and copy the embed code provided under “Embed code”.\n\nCombine the Embed Codes:\n\nInstead of copying the entire embed code, you need the calendar’s ID, which is part of the embed URL. It will look something like calendarID@group.calendar.google.com.\nFor example, in the embed URL https://calendar.google.com/calendar/embed?src=calendarID@group.calendar.google.com, calendarID@group.calendar.google.com is the part you need.\n\nCreate a Single Embed Link:\n\nUse the base URL for embedding multiple calendars: https://calendar.google.com/calendar/embed?\nAppend each calendar ID to the base URL using the format &src=calendarID@group.calendar.google.com for each calendar you want to include.\nOptionally, you can customize the appearance by adding parameters (e.g., &color=%23F6BF26 for the color, &ctz=America%2FLos_Angeles for the time zone).\n\nFor example, if you have two calendars with IDs calendar1ID@group.calendar.google.com and calendar2ID@group.calendar.google.com, your combined embed link would look like this:\n\nhttps://calendar.google.com/calendar/embed?src=calendar1ID@group.calendar.google.com&src=calendar2ID@group.calendar.google.com\n\nSubstitute this URL into the src attribute of the calendar’s iframe at the top of this page."
-  },
-  {
-    "objectID": "spring-2025/syllabus.html",
-    "href": "spring-2025/syllabus.html",
-    "title": "Syllabus",
-    "section": "",
-    "text": "[UNDER CONSTRUCTION]\nJump to:"
-  },
-  {
-    "objectID": "spring-2025/syllabus.html#about-department-999",
-    "href": "spring-2025/syllabus.html#about-department-999",
-    "title": "Syllabus",
-    "section": "About Department 999",
-    "text": "About Department 999\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus lectus dui, euismod vel tellus sit amet, maximus fringilla risus. Cras nec maximus leo. Fusce sit amet tortor pellentesque, hendrerit odio vitae, dictum lorem. Nunc sed nunc nisl. Cras augue tortor, ultrices ut luctus non, dictum nec magna. Cras vel ex purus. In blandit est non finibus dignissim. Donec vehicula, nisi quis rutrum faucibus, est turpis ultrices nibh, quis rutrum diam nibh tempus nulla. Vestibulum malesuada consectetur ex in vestibulum.\n\nGoals\n\nGoal 1\nGoal 2\nGoal 3\n\n\n\nPrerequisites\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus lectus dui, euismod vel tellus sit amet, maximus fringilla risus. Cras nec maximus leo. Fusce sit amet tortor pellentesque, hendrerit odio vitae, dictum lorem. Nunc sed nunc nisl. Cras augue tortor, ultrices ut luctus non, dictum nec magna. Cras vel ex purus. In blandit est non finibus dignissim. Donec vehicula, nisi quis rutrum faucibus, est turpis ultrices nibh, quis rutrum diam nibh tempus nulla. Vestibulum malesuada consectetur ex in vestibulum."
-  },
-  {
-    "objectID": "spring-2025/units/unit1.html",
-    "href": "spring-2025/units/unit1.html",
-    "title": "Unit 1: Intro",
-    "section": "",
-    "text": "[UNDER CONSTRUCTION]\nThis is an example of using qmd as the source document."
-  },
-  {
-    "objectID": "spring-2025/units/unit1.html#evaluated-python-code-chunk-with-a-plot",
-    "href": "spring-2025/units/unit1.html#evaluated-python-code-chunk-with-a-plot",
-    "title": "Unit 1: Intro",
-    "section": "Evaluated Python code chunk, with a plot",
-    "text": "Evaluated Python code chunk, with a plot\n\n\nCode\nimport numpy as np\nx = np.random.normal(size=100)\nimport matplotlib.pyplot as plt\nplt.hist(x)\nplt.show()\nnp.mean(x)\n\n\n\n\n\n\n\n\n\nnp.float64(0.039319982604534946)"
-  },
-  {
-    "objectID": "spring-2025/units/unit1.html#latex",
-    "href": "spring-2025/units/unit1.html#latex",
-    "title": "Unit 1: Intro",
-    "section": "\\(\\LaTeX\\)",
-    "text": "\\(\\LaTeX\\)\n\\[\n\\theta = \\int_0^\\infty f(x,\\theta)d\\theta\n\\]"
-  },
-  {
-    "objectID": "spring-2025/units/unit1.html#styled-div-via-direct-html",
-    "href": "spring-2025/units/unit1.html#styled-div-via-direct-html",
-    "title": "Unit 1: Intro",
-    "section": "Styled div via direct html",
-    "text": "Styled div via direct html\n\nThis content can be styled via the border class."
-  },
-  {
-    "objectID": "spring-2025/units/unit1.html#a-callout",
-    "href": "spring-2025/units/unit1.html#a-callout",
-    "title": "Unit 1: Intro",
-    "section": "A callout",
-    "text": "A callout\n\n\n\n\n\n\nTip with Title\n\n\n\nThis is an example of a callout with a title."
-  },
-  {
-    "objectID": "spring-2025/units/unit1.html#tabset",
-    "href": "spring-2025/units/unit1.html#tabset",
-    "title": "Unit 1: Intro",
-    "section": "Tabset",
-    "text": "Tabset\n\nRPython\n\n\nThis code is not executed.\nfizz_buzz &lt;- function(fbnums = 1:50) {\n  output &lt;- dplyr::case_when(\n    fbnums %% 15 == 0 ~ \"FizzBuzz\",\n    fbnums %% 3 == 0 ~ \"Fizz\",\n    fbnums %% 5 == 0 ~ \"Buzz\",\n    TRUE ~ as.character(fbnums)\n  )\n  print(output)\n}\n\nfizz_buzz(3)\n\n\nThis code is executed.\n\n\nCode\ndef fizz_buzz(num):\n  if num % 15 == 0:\n    print(\"FizzBuzz\")\n  elif num % 5 == 0:\n    print(\"Buzz\")\n  elif num % 3 == 0:\n    print(\"Fizz\")\n  else:\n    print(num)\n    \nfizz_buzz(3)\n\n\nFizz"
-  },
-  {
-    "objectID": "spring-2025/units/unit1.html#a-basic-markdown-table",
-    "href": "spring-2025/units/unit1.html#a-basic-markdown-table",
-    "title": "Unit 1: Intro",
-    "section": "A basic Markdown table",
-    "text": "A basic Markdown table\n\n\n\nDefault\nLeft\nRight\nCenter\n\n\n\n\n12\n12\n12\n12\n\n\n123\n123\n123\n123\n\n\n1\n1\n1\n1"
-  },
-  {
-    "objectID": "spring-2025/units/unit2.html",
-    "href": "spring-2025/units/unit2.html",
-    "title": "Unit 2: Next",
-    "section": "",
-    "text": "[UNDER CONSTRUCTION]\nThis is an example of using an ipynb file as source rather than qmd. It follows instructions from https://github.com/DS-100/course-notes/README.md.\nLink to the data."
-  },
-  {
-    "objectID": "spring-2025/units/unit2.html#latex",
-    "href": "spring-2025/units/unit2.html#latex",
-    "title": "Unit 2: Next",
-    "section": "\\(\\LaTeX\\)",
-    "text": "\\(\\LaTeX\\)\nHere is some \\(\\LaTeX\\). \\[\n\\theta = 7\n\\]"
-  },
-  {
-    "objectID": "spring-2025/units/unit2.html#evaluated-python-code",
-    "href": "spring-2025/units/unit2.html#evaluated-python-code",
-    "title": "Unit 2: Next",
-    "section": "Evaluated Python code",
-    "text": "Evaluated Python code\nNote that to get code output shown, the underlying notebook must have executed the code.\n\n\nCode\na=7\nprint(a)\n\n\n7"
-  },
-  {
-    "objectID": "spring-2025/units/unit2.html#callout",
-    "href": "spring-2025/units/unit2.html#callout",
-    "title": "Unit 2: Next",
-    "section": "Callout",
-    "text": "Callout\n\n\n\n\n\n\nTip with Title\n\n\n\nThis is an example of a callout with a title."
-  },
-  {
-    "objectID": "spring-2025/index.html",
-    "href": "spring-2025/index.html",
-    "title": "Department 999: Generic Class",
-    "section": "",
-    "text": "Ed\n\n  DataHub\n\n  Gradescope\n\n  bCourses\n\nNo matching items\n[UNDER CONSTRUCTION]"
-  },
-  {
-    "objectID": "spring-2025/index.html#schedule",
-    "href": "spring-2025/index.html#schedule",
-    "title": "Department 999: Generic Class",
-    "section": "Schedule",
-    "text": "Schedule\nHere we use Quarto’s EJS templating.\n\n\n\nNo matching items"
   },
   {
     "objectID": "syllabus.html",
@@ -347,78 +221,58 @@
     ]
   },
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
+    "objectID": "units/unit11.html",
+    "href": "units/unit11.html",
+    "title": "11) Imports & Exports II",
     "section": "",
-    "text": "Info\n\n\n\nInstructor: Gaston Sanchez\nLecture: M 11am-12pm in VLSB 2040\nLab:\n\nLab 101, W 9am-10am, Evans 342 (GSI Brian)\nLab 102, W 10am-11am, Evans 342 (GSI Brian)\nLab 103, W 1pm-2pm, Evans 342 (GSI Brian)\nLab 104, W 2pm-3pm, Evans 342 (GSI Brian)\n\nCode #: 24030\nUnits: 1\nFinal Exam: Tue May-13th, 7pm-10pm, location TBD.\nDates: Jan-22 / May-02\nThis course introduces the R statistical software to students with minimal prior exposure to programming.\nThe course aims to prepare students to carry out a basic data analysis and to write simple functions. The focus is on the computational model that underlies the R language with the goal of providing a foundation for further coding.",
-    "crumbs": [
-      "About"
-    ]
-  },
-  {
-    "objectID": "about.html#more-information",
-    "href": "about.html#more-information",
-    "title": "About",
-    "section": "More Information",
-    "text": "More Information\n\nSchedule\nSyllabus\nStaff\nCommunication via email\nEd Netiquette\nQ&As",
-    "crumbs": [
-      "About"
-    ]
-  },
-  {
-    "objectID": "units/unit7.html",
-    "href": "units/unit7.html",
-    "title": "7) Conditionals",
-    "section": "",
-    "text": "This week we introduce the notion of R expressions, and we provide the syntax used by R to handle if-else statements and related conditionals constructs.",
+    "text": "This week, we continue describing functions that have to do with so-called input(s)-output(s), or simply put, with importing and exporting operations. For example:\n\nhow to export a data table\nhow to export a graphic to an image file\nhow to export function outputs to external files",
     "crumbs": [
       "Units",
-      "7) Conditionals"
+      "11) Imports & Exports II"
     ]
   },
   {
-    "objectID": "units/unit7.html#lecture",
-    "href": "units/unit7.html#lecture",
-    "title": "7) Conditionals",
+    "objectID": "units/unit11.html#lecture",
+    "href": "units/unit11.html#lecture",
+    "title": "11) Imports & Exports II",
     "section": "",
-    "text": "This week we introduce the notion of R expressions, and we provide the syntax used by R to handle if-else statements and related conditionals constructs.",
+    "text": "This week, we continue describing functions that have to do with so-called input(s)-output(s), or simply put, with importing and exporting operations. For example:\n\nhow to export a data table\nhow to export a graphic to an image file\nhow to export function outputs to external files",
     "crumbs": [
       "Units",
-      "7) Conditionals"
+      "11) Imports & Exports II"
     ]
   },
   {
-    "objectID": "units/unit7.html#objectives",
-    "href": "units/unit7.html#objectives",
-    "title": "7) Conditionals",
+    "objectID": "units/unit11.html#objectives",
+    "href": "units/unit11.html#objectives",
+    "title": "11) Imports & Exports II",
     "section": "🎯 Objectives",
-    "text": "🎯 Objectives\nAt the end of this week you will be able to:\n\nWrite if-else statements to handle simple conditions\nUse the vectorized function ifelse()\nDescribe what curly braces {...} are used for in R.",
+    "text": "🎯 Objectives\nAt the end of this week you will be able to:\n\nUse the sink() function to export output to external files\nProvide an example for how to export an image with png() or jpeg() or pdf()\nDescribe the mechanics that R uses for reading-in data",
     "crumbs": [
       "Units",
-      "7) Conditionals"
+      "11) Imports & Exports II"
     ]
   },
   {
-    "objectID": "units/unit7.html#reading",
-    "href": "units/unit7.html#reading",
-    "title": "7) Conditionals",
+    "objectID": "units/unit11.html#reading",
+    "href": "units/unit11.html#reading",
+    "title": "11) Imports & Exports II",
     "section": "📚 Reading",
-    "text": "📚 Reading\n\nhttps://www.gastonsanchez.com/R-coding-basics/5-03-conditionals.html\nhttps://www.gastonsanchez.com/R-coding-basics/5-02-expressions.html",
+    "text": "📚 Reading\n\nhttps://www.gastonsanchez.com/R-coding-basics/6-03-exporting-data.html",
     "crumbs": [
       "Units",
-      "7) Conditionals"
+      "11) Imports & Exports II"
     ]
   },
   {
-    "objectID": "units/unit7.html#lab",
-    "href": "units/unit7.html#lab",
-    "title": "7) Conditionals",
+    "objectID": "units/unit11.html#lab",
+    "href": "units/unit11.html#lab",
+    "title": "11) Imports & Exports II",
     "section": "🔬 Lab",
-    "text": "🔬 Lab\nWork with some basic if-else statements and related functions.",
+    "text": "🔬 Lab\nWork with some basic examples to import and export resources.",
     "crumbs": [
       "Units",
-      "7) Conditionals"
+      "11) Imports & Exports II"
     ]
   },
   {
@@ -477,61 +331,6 @@
     ]
   },
   {
-    "objectID": "units/unit3.html",
-    "href": "units/unit3.html",
-    "title": "3) Matrices and Lists",
-    "section": "",
-    "text": "We continue describing more data objects in R such as\n\natomic objects: matrices (and N-dim arrays)\nnon-atomic objects: lists",
-    "crumbs": [
-      "Units",
-      "3) Matrices and Lists"
-    ]
-  },
-  {
-    "objectID": "units/unit3.html#lecture",
-    "href": "units/unit3.html#lecture",
-    "title": "3) Matrices and Lists",
-    "section": "",
-    "text": "We continue describing more data objects in R such as\n\natomic objects: matrices (and N-dim arrays)\nnon-atomic objects: lists",
-    "crumbs": [
-      "Units",
-      "3) Matrices and Lists"
-    ]
-  },
-  {
-    "objectID": "units/unit3.html#objectives",
-    "href": "units/unit3.html#objectives",
-    "title": "3) Matrices and Lists",
-    "section": "🎯 Objectives",
-    "text": "🎯 Objectives\nAt the end of this week you will be able to:\n\nCreate matrices with the function matrix()\nExplain how R internally stores matrices\nDescribe why matrices are atomic objects\nDescribe in what sense a list is considered to be a non-atomic vector",
-    "crumbs": [
-      "Units",
-      "3) Matrices and Lists"
-    ]
-  },
-  {
-    "objectID": "units/unit3.html#reading",
-    "href": "units/unit3.html#reading",
-    "title": "3) Matrices and Lists",
-    "section": "📚 Reading",
-    "text": "📚 Reading\n\nhttps://www.gastonsanchez.com/R-coding-basics/3-01-matrices-intro.html\nhttps://www.gastonsanchez.com/R-coding-basics/4-01-lists.html",
-    "crumbs": [
-      "Units",
-      "3) Matrices and Lists"
-    ]
-  },
-  {
-    "objectID": "units/unit3.html#lab",
-    "href": "units/unit3.html#lab",
-    "title": "3) Matrices and Lists",
-    "section": "🔬 Lab",
-    "text": "🔬 Lab\nMore practice with data objects.",
-    "crumbs": [
-      "Units",
-      "3) Matrices and Lists"
-    ]
-  },
-  {
     "objectID": "units/unit9.html",
     "href": "units/unit9.html",
     "title": "9) Functions",
@@ -587,133 +386,223 @@
     ]
   },
   {
-    "objectID": "units/unit12.html",
-    "href": "units/unit12.html",
-    "title": "12) Performance",
+    "objectID": "units/unit13.html",
+    "href": "units/unit13.html",
+    "title": "13) Scoping",
     "section": "",
-    "text": "This week we review more underlying principles that have to do with performance in R.",
+    "text": "This week we review more technical aspects of functions in R. Specifically, we will focus on the scoping mechanisms used by R to find the value of a variable.",
     "crumbs": [
       "Units",
-      "12) Performance"
+      "13) Scoping"
     ]
   },
   {
-    "objectID": "units/unit12.html#lecture",
-    "href": "units/unit12.html#lecture",
-    "title": "12) Performance",
+    "objectID": "units/unit13.html#lecture",
+    "href": "units/unit13.html#lecture",
+    "title": "13) Scoping",
     "section": "",
-    "text": "This week we review more underlying principles that have to do with performance in R.",
+    "text": "This week we review more technical aspects of functions in R. Specifically, we will focus on the scoping mechanisms used by R to find the value of a variable.",
     "crumbs": [
       "Units",
-      "12) Performance"
+      "13) Scoping"
     ]
   },
   {
-    "objectID": "units/unit12.html#objectives",
-    "href": "units/unit12.html#objectives",
-    "title": "12) Performance",
+    "objectID": "units/unit13.html#objectives",
+    "href": "units/unit13.html#objectives",
+    "title": "13) Scoping",
     "section": "🎯 Objectives",
-    "text": "🎯 Objectives\nAt the end of this week you will be able to:\n\nProvide an example of copy-on-modify policy.\nApply the function system.time() to time commands in R.\nApply yhe function Rprof() and summaryRprof() to profile code in R.",
+    "text": "🎯 Objectives\n\nProvide an example of “name masking”\nProvide an example of “functions versus variables”\nProvide an example of “fresh start”\nProvide an example of “dynamic lookup”",
     "crumbs": [
       "Units",
-      "12) Performance"
+      "13) Scoping"
     ]
   },
   {
-    "objectID": "units/unit12.html#reading",
-    "href": "units/unit12.html#reading",
-    "title": "12) Performance",
+    "objectID": "units/unit13.html#reading",
+    "href": "units/unit13.html#reading",
+    "title": "13) Scoping",
     "section": "📚 Reading",
-    "text": "📚 Reading\n\nhttp://adv-r.had.co.nz/Performance.html\nhttps://adv-r.hadley.nz/perf-measure.html",
+    "text": "📚 Reading\n\nhttps://adv-r.hadley.nz/functions.html#lexical-scoping\nhttps://adv-r.hadley.nz/names-values.html\nhttp://adv-r.had.co.nz/Environments.html",
     "crumbs": [
       "Units",
-      "12) Performance"
+      "13) Scoping"
     ]
   },
   {
-    "objectID": "units/unit12.html#lab",
-    "href": "units/unit12.html#lab",
-    "title": "12) Performance",
+    "objectID": "units/unit13.html#lab",
+    "href": "units/unit13.html#lab",
+    "title": "13) Scoping",
     "section": "🔬 Lab",
-    "text": "🔬 Lab\nPractice measuring performance.",
+    "text": "🔬 Lab\nWork with some basic examples to understand scoping rules and environments.",
     "crumbs": [
       "Units",
-      "12) Performance"
+      "13) Scoping"
     ]
   },
   {
-    "objectID": "units/unit11.html",
-    "href": "units/unit11.html",
-    "title": "11) Imports & Exports II",
+    "objectID": "units/unit1.html",
+    "href": "units/unit1.html",
+    "title": "1) Intro",
     "section": "",
-    "text": "This week, we continue describing functions that have to do with so-called input(s)-output(s), or simply put, with importing and exporting operations. For example:\n\nhow to export a data table\nhow to export a graphic to an image file\nhow to export function outputs to external files",
+    "text": "Welcome to STAT 33B. Our first meeting is on Monday Jan-27 where we begin with the usual review of the course policies, logistics, overall expectations, topics in a nutshell, etc.",
     "crumbs": [
       "Units",
-      "11) Imports & Exports II"
+      "1) Intro"
     ]
   },
   {
-    "objectID": "units/unit11.html#lecture",
-    "href": "units/unit11.html#lecture",
-    "title": "11) Imports & Exports II",
+    "objectID": "units/unit1.html#lecture",
+    "href": "units/unit1.html#lecture",
+    "title": "1) Intro",
     "section": "",
-    "text": "This week, we continue describing functions that have to do with so-called input(s)-output(s), or simply put, with importing and exporting operations. For example:\n\nhow to export a data table\nhow to export a graphic to an image file\nhow to export function outputs to external files",
+    "text": "Welcome to STAT 33B. Our first meeting is on Monday Jan-27 where we begin with the usual review of the course policies, logistics, overall expectations, topics in a nutshell, etc.",
     "crumbs": [
       "Units",
-      "11) Imports & Exports II"
+      "1) Intro"
     ]
   },
   {
-    "objectID": "units/unit11.html#objectives",
-    "href": "units/unit11.html#objectives",
-    "title": "11) Imports & Exports II",
+    "objectID": "units/unit1.html#lab",
+    "href": "units/unit1.html#lab",
+    "title": "1) Intro",
+    "section": "🔬 Lab",
+    "text": "🔬 Lab\nThe first lab is on Wednesday Jan-29 where you’ll get started with R and RStudio: first, we want to make sure everybody has installed both programs; and then we will provide an introductory review of RStudio’s workspace, as well as a brief intro to Quarto notebooks.\nAlso, we’ll review the basics of Quarto Markdown (qmd) files, how to “compile” them and produce an HTML document. Also, you’ll have the opportunity to make sure you know how to submit a qmd & HTML files to bCourses.\nBTW: there’s nothing to submit this week.",
+    "crumbs": [
+      "Units",
+      "1) Intro"
+    ]
+  },
+  {
+    "objectID": "units/unit1.html#activities",
+    "href": "units/unit1.html#activities",
+    "title": "1) Intro",
+    "section": "🔔 Activities",
+    "text": "🔔 Activities\nIf you haven’t yet, please spend some time outside class to review the following documentation:\n\nsyllabus\ncommunication via email\nsome frequently asked questions",
+    "crumbs": [
+      "Units",
+      "1) Intro"
+    ]
+  },
+  {
+    "objectID": "units/unit1.html#install-r-rstudio",
+    "href": "units/unit1.html#install-r-rstudio",
+    "title": "1) Intro",
+    "section": "📢 Install R & RStudio",
+    "text": "📢 Install R & RStudio\nFor those of you that don’t have either R or RStudio, download and install these programs (both are free, and they are available for Mac, Windows, and Linux computers)\n\nInstall R\nInstall RStudio (Desktop free version)",
+    "crumbs": [
+      "Units",
+      "1) Intro"
+    ]
+  },
+  {
+    "objectID": "units/unit3.html",
+    "href": "units/unit3.html",
+    "title": "3) Matrices and Lists",
+    "section": "",
+    "text": "We continue describing more data objects in R such as\n\natomic objects: matrices (and N-dim arrays)\nnon-atomic objects: lists",
+    "crumbs": [
+      "Units",
+      "3) Matrices and Lists"
+    ]
+  },
+  {
+    "objectID": "units/unit3.html#lecture",
+    "href": "units/unit3.html#lecture",
+    "title": "3) Matrices and Lists",
+    "section": "",
+    "text": "We continue describing more data objects in R such as\n\natomic objects: matrices (and N-dim arrays)\nnon-atomic objects: lists",
+    "crumbs": [
+      "Units",
+      "3) Matrices and Lists"
+    ]
+  },
+  {
+    "objectID": "units/unit3.html#objectives",
+    "href": "units/unit3.html#objectives",
+    "title": "3) Matrices and Lists",
     "section": "🎯 Objectives",
-    "text": "🎯 Objectives\nAt the end of this week you will be able to:\n\nUse the sink() function to export output to external files\nProvide an example for how to export an image with png() or jpeg() or pdf()\nDescribe the mechanics that R uses for reading-in data",
+    "text": "🎯 Objectives\nAt the end of this week you will be able to:\n\nCreate matrices with the function matrix()\nExplain how R internally stores matrices\nDescribe why matrices are atomic objects\nDescribe in what sense a list is considered to be a non-atomic vector",
     "crumbs": [
       "Units",
-      "11) Imports & Exports II"
+      "3) Matrices and Lists"
     ]
   },
   {
-    "objectID": "units/unit11.html#reading",
-    "href": "units/unit11.html#reading",
-    "title": "11) Imports & Exports II",
+    "objectID": "units/unit3.html#reading",
+    "href": "units/unit3.html#reading",
+    "title": "3) Matrices and Lists",
     "section": "📚 Reading",
-    "text": "📚 Reading\n\nhttps://www.gastonsanchez.com/R-coding-basics/6-03-exporting-data.html",
+    "text": "📚 Reading\n\nhttps://www.gastonsanchez.com/R-coding-basics/3-01-matrices-intro.html\nhttps://www.gastonsanchez.com/R-coding-basics/4-01-lists.html",
     "crumbs": [
       "Units",
-      "11) Imports & Exports II"
+      "3) Matrices and Lists"
     ]
   },
   {
-    "objectID": "units/unit11.html#lab",
-    "href": "units/unit11.html#lab",
-    "title": "11) Imports & Exports II",
+    "objectID": "units/unit3.html#lab",
+    "href": "units/unit3.html#lab",
+    "title": "3) Matrices and Lists",
     "section": "🔬 Lab",
-    "text": "🔬 Lab\nWork with some basic examples to import and export resources.",
+    "text": "🔬 Lab\nMore practice with data objects.",
     "crumbs": [
       "Units",
-      "11) Imports & Exports II"
+      "3) Matrices and Lists"
     ]
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "STAT 33B: Intro to Adv. Prog. in R",
+    "objectID": "units/unit5.html",
+    "href": "units/unit5.html",
+    "title": "5) dplyr",
     "section": "",
-    "text": "bCourses\n\n  Ed\n\n  R-DataHub\n\n  Ed\n\n  DataHub\n\n  Gradescope\n\n  bCourses\n\nNo matching items",
+    "text": "In addition to learning about the “classic” way to work with data frames, we will briefly touch on an “alternative” approach for working with tables provided by the ecosystem of packages known as the \"tidyverse\": https://www.tidyverse.org\nThis week we start with the tidyverse package \"dplyr\". Simply put, \"dplyr\" comes with functions that allow you to manipulate data-tables (e.g. data-frames, and other 2-dimensional objects) using a modern and syntactic way.",
     "crumbs": [
-      "Home / Schedule"
+      "Units",
+      "5) dplyr"
     ]
   },
   {
-    "objectID": "index.html#schedule",
-    "href": "index.html#schedule",
-    "title": "STAT 33B: Intro to Adv. Prog. in R",
-    "section": "Schedule 📅",
-    "text": "Schedule 📅\nTentative calendar subject to change.\n\nWeek 1\n\n   \n   \n   \n   \n   \n     \n  \n          \n  \n  \n  \n             \n             \n             About\n             \n             \n               Overview  None\n             \n             \n                \n             \n             \n                \n             \n                  \n             \n          \n     \n  \n          \n  \n  \n  \n             \n             \n             Jan 20\n             \n             \n               Lecture  No Lecture\n             \n             \n                \n             \n             \n                \n             \n                  \n             \n          \n     \n  \n          \n  \n  \n  \n             \n             \n             Jan 22\n             \n             \n               Labwork  No Lab\n             \n             \n                \n             \n             \n                \n             \n                  \n             \n          \n     \n     \n  \n   \n  \n\n   Week 2\n\n   \n   \n   \n   \n   \n     \n  \n          \n  \n  \n  \n             \n             \n             About\n             \n             \n               Overview  Unit 1: Introduction\n             \n             \n                \n             \n             \n                \n             \n                  \n             \n          \n     \n  \n          \n  \n  \n  \n             \n             \n             Jan 27\n             \n             \n               Lecture  Welcome to STAT 33B (slides)\n             \n             \n                \n             \n             \n                \n             \n                  \n             \n          \n     \n  \n          \n  \n  \n  \n             \n             \n             Jan 29\n             \n             \n               Labwork  Lab 1: Intro to R and RStudio\n             \n             \n                \n             \n             \n                \n             \n                  \n             \n          \n     \n  \n          \n  \n  \n  \n             \n             \n             HW\n             \n             \n               Homework  HW 1: Vectors (avail 2/01, due 2/14)\n             \n             \n                \n             \n             \n                \n             \n                  \n             \n          \n     \n     \n  \n   \n  \n\n   Week 3\n\n   \n   \n   \n   \n   \n     \n  \n          \n  \n  \n  \n             \n             \n             About\n             \n             \n               Overview  Unit 2: Vectors\n             \n             \n                \n             \n             \n                \n             \n                  \n             \n          \n     \n  \n          \n  \n  \n  \n             \n             \n             Feb 3\n             \n             \n               Lecture  Vectors, part 1 (notes)\n             \n             \n               Demo\n              \n             \n                \n             \n                  \n             \n          \n  \n  \n  \n             \n             \n             \n               Lectur2  Vectors, part 2 (notes)\n             \n             \n                \n             \n             \n                \n             \n                  \n             \n          \n     \n  \n          \n  \n  \n  \n             \n             \n             Feb 5\n             \n             \n               Labwork  Lab 2: Vectors  (due 2/06)\n             \n             \n                \n             \n             \n                \n             \n                  \n             \n          \n     \n     \n  \n   \n  \n\n   Week 4\n\n   \n   \n   \n   \n   \n     \n  \n          \n  \n  \n  \n             \n             \n             About\n             \n             \n               Overview  Unit 3: More Objects\n             \n             \n                \n             \n             \n                \n             \n                  \n             \n          \n     \n  \n          \n  \n  \n  \n             \n             \n             Feb 10\n             \n             \n               Lecture  Matrices (notes)\n             \n             \n               Demo\n              \n             \n                \n             \n                  \n             \n          \n  \n  \n  \n             \n             \n             \n               Lectur2  Lists (notes)\n             \n             \n                \n             \n             \n                \n             \n                  \n             \n          \n     \n  \n          \n  \n  \n  \n             \n             \n             Feb 12\n             \n             \n               Labwork  Lab 3: More Objects  (due 2/13)\n             \n             \n                \n             \n             \n                \n             \n                  \n             \n          \n     \n  \n          \n  \n  \n  \n             \n             \n             HW\n             \n             \n               Homework  HW 2: Vectors (avail 2/15, due 2/28)\n             \n             \n                \n             \n             \n                \n             \n                  \n             \n          \n     \n     \n  \n   \n  \n\n   Week 5\n\n   \n   \n   \n   \n   \n     \n  \n          \n  \n  \n  \n             \n             \n             About\n             \n             \n               Overview  Unit 4: Data Frames\n             \n             \n                \n             \n             \n                \n             \n                  \n             \n          \n     \n  \n          \n  \n  \n  \n             \n             \n             Feb 17\n             \n             \n               Lecture  HOLIDAY\n             \n             \n                \n             \n             \n                \n             \n                  \n             \n          \n  \n  \n  \n             \n             \n             \n               Lectur2  Data Frames\n             \n             \n                \n             \n             \n                \n             \n                  \n             \n          \n     \n  \n          \n  \n  \n  \n             \n             \n             Feb 19\n             \n             \n               Labwork  Lab 4: Data Frames  (due 2/20)\n             \n             \n               Demo\n              \n             \n                \n             \n                  \n             \n          \n     \n     \n  \n   \n  \n\n   Week 6\n\n   \n   \n   \n   \n   \n     \n  \n          \n  \n  \n  \n             \n             \n             About\n             \n             \n               Overview  Unit 5: Tables 1\n             \n             \n                \n             \n             \n                \n             \n                  \n             \n          \n     \n  \n          \n  \n  \n  \n             \n             \n             Feb 24\n             \n             \n               Lecture  Tables & dplyr\n             \n             \n               Demo\n              \n             \n                \n             \n                  \n             \n          \n     \n  \n          \n  \n  \n  \n             \n             \n             Feb 26\n             \n             \n               Labwork  Lab 5: dplyr (due 2/27)\n             \n             \n               Demo\n              \n             \n                \n             \n                  \n             \n          \n     \n  \n          \n  \n  \n  \n             \n             \n             HW\n             \n             \n               Homework  HW 3: Tables (avail 3/01, due 3/14)\n             \n             \n                \n             \n             \n                \n             \n                  \n             \n          \n     \n     \n  \n   \n  \n\n   Week 7\n\n   \n   \n   \n   \n   \n     \n  \n          \n  \n  \n  \n             \n             \n             About\n             \n             \n               Overview  Unit 6: Tables 2\n             \n             \n                \n             \n             \n                \n             \n                  \n             \n          \n     \n  \n          \n  \n  \n  \n             \n             \n             Mar 3\n             \n             \n               Lecture  Tables & ggplot\n             \n             \n               Demo\n              \n             \n                \n             \n                  \n             \n          \n     \n  \n          \n  \n  \n  \n             \n             \n             Mar 5\n             \n             \n               Labwork  Lab 6: ggplot (due 3/06)\n             \n             \n                \n             \n             \n                \n             \n                  \n             \n          \n     \n  \n          \n  \n  \n  \n             \n             \n             Mar 7\n             \n             \n               Quiz  Quiz-1, See announcements on bCourses\n             \n             \n                \n             \n             \n                \n             \n                  \n             \n          \n     \n     \n  \n   \n  \n\n   Week 8\n\n   \n   \n   \n   \n   \n     \n  \n          \n  \n  \n  \n             \n             \n             About\n             \n             \n               Overview  Unit 7: Conditionals\n             \n             \n                \n             \n             \n                \n             \n                  \n             \n          \n     \n  \n          \n  \n  \n  \n             \n             \n             Mar 10\n             \n             \n               Lecture  Conditionals (notes)\n             \n             \n               Demo\n              \n             \n                \n             \n                  \n             \n          \n  \n  \n  \n             \n             \n             \n               Lectur2  Expressions (notes)\n             \n             \n                \n             \n             \n                \n             \n                  \n             \n          \n     \n  \n          \n  \n  \n  \n             \n             \n             Mar 12\n             \n             \n               Labwork  Lab 7: Conditionals (due 3/13)\n             \n             \n                \n             \n             \n                \n             \n                  \n             \n          \n     \n  \n          \n  \n  \n  \n             \n             \n             HW\n             \n             \n               Homework  HW 4: Control Flow (avail 3/15, due 4/04)\n             \n             \n                \n             \n             \n                \n             \n                  \n             \n          \n     \n     \n  \n   \n  \n\n   Week 9\n\n   \n   \n   \n   \n   \n     \n  \n          \n  \n  \n  \n             \n             \n             About\n             \n             \n               Overview  Unit 8: Iterations\n             \n             \n                \n             \n             \n                \n             \n                  \n             \n          \n     \n  \n          \n  \n  \n  \n             \n             \n             Mar 17\n             \n             \n               Lecture  For loops (notes)\n             \n             \n               Demo\n              \n             \n                \n             \n                  \n             \n          \n  \n  \n  \n             \n             \n             \n               Lectur2  While loops (notes)\n             \n             \n                \n             \n             \n                \n             \n                  \n             \n          \n     \n  \n          \n  \n  \n  \n             \n             \n             Mar 19\n             \n             \n               Labwork  Lab 8: Iterations (due 3/20)\n             \n             \n                \n             \n             \n                \n             \n                  \n             \n          \n     \n     \n  \n   \n  \n\n   Week Spring Recess\n\n   \n   \n   \n   \n   \n     \n  \n          \n  \n  \n  \n             \n             \n             Mar 24\n             \n             \n               Lectur2  Spring Recess\n             \n             \n                \n             \n             \n                \n             \n                  \n             \n          \n     \n  \n          \n  \n  \n  \n             \n             \n             Mar 26\n             \n             \n               Lectur2  Spring Recess\n             \n             \n                \n             \n             \n                \n             \n                  \n             \n          \n     \n     \n  \n   \n  \n\n   Week 10\n\n   \n   \n   \n   \n   \n     \n  \n          \n  \n  \n  \n             \n             \n             About\n             \n             \n               Overview  Unit 9: Functions\n             \n             \n                \n             \n             \n                \n             \n                  \n             \n          \n     \n  \n          \n  \n  \n  \n             \n             \n             Mar 31\n             \n             \n               Lecture  Functions (notes)\n             \n             \n               Demo\n              \n             \n                \n             \n                  \n             \n          \n     \n  \n          \n  \n  \n  \n             \n             \n             Apr 2\n             \n             \n               Labwork  Lab 9: Functions (due 4/03)\n             \n             \n                \n             \n             \n                \n             \n                  \n             \n          \n     \n  \n          \n  \n  \n  \n             \n             \n             HW\n             \n             \n               Homework  HW 5: Programming (avail 4/05, due 4/18)\n             \n             \n                \n             \n             \n                \n             \n                  \n             \n          \n     \n     \n  \n   \n  \n\n   Week 11\n\n   \n   \n   \n   \n   \n     \n  \n          \n  \n  \n  \n             \n             \n             About\n             \n             \n               Overview  Unit 10: Imports & Exports I\n             \n             \n                \n             \n             \n                \n             \n                  \n             \n          \n     \n  \n          \n  \n  \n  \n             \n             \n             Apr 7\n             \n             \n               Lecture  Importing (notes)\n             \n             \n               Demo\n              \n             \n                \n             \n                  \n             \n          \n     \n  \n          \n  \n  \n  \n             \n             \n             Apr 9\n             \n             \n               Labwork  Lab 10: Imports (due 4/10)\n             \n             \n                \n             \n             \n                \n             \n                  \n             \n          \n     \n  \n          \n  \n  \n  \n             \n             \n             Apr 11\n             \n             \n               Quiz  Quiz-2, See announcements on bCourses\n             \n             \n                \n             \n             \n                \n             \n                  \n             \n          \n     \n     \n  \n   \n  \n\n   Week 12\n\n   \n   \n   \n   \n   \n     \n  \n          \n  \n  \n  \n             \n             \n             About\n             \n             \n               Overview  Unit 11: Imports & Exports II\n             \n             \n                \n             \n             \n                \n             \n                  \n             \n          \n     \n  \n          \n  \n  \n  \n             \n             \n             Apr 14\n             \n             \n               Lecture  Exporting (notes)\n             \n             \n               Demo\n              \n             \n                \n             \n                  \n             \n          \n     \n  \n          \n  \n  \n  \n             \n             \n             Apr 16\n             \n             \n               Labwork  Lab 11: Exports (due 4/17)\n             \n             \n                \n             \n             \n                \n             \n                  \n             \n          \n     \n  \n          \n  \n  \n  \n             \n             \n             HW\n             \n             \n               Homework  HW 6: Programming (avail 4/19, due 5/02)\n             \n             \n                \n             \n             \n                \n             \n                  \n             \n          \n     \n     \n  \n   \n  \n\n   Week 13\n\n   \n   \n   \n   \n   \n     \n  \n          \n  \n  \n  \n             \n             \n             About\n             \n             \n               Overview  Unit 12: Performance\n             \n             \n                \n             \n             \n                \n             \n                  \n             \n          \n     \n  \n          \n  \n  \n  \n             \n             \n             Apr 21\n             \n             \n               Lecture  Performance\n             \n             \n               Demo\n              \n             \n                \n             \n                  \n             \n          \n  \n  \n  \n             \n             \n             \n               Lectur2  Profiling\n             \n             \n                \n             \n             \n                \n             \n                  \n             \n          \n     \n  \n          \n  \n  \n  \n             \n             \n             Apr 23\n             \n             \n               Labwork  Lab 12: Performance (due 4/24)\n             \n             \n                \n             \n             \n                \n             \n                  \n             \n          \n     \n     \n  \n   \n  \n\n   Week 14\n\n   \n   \n   \n   \n   \n     \n  \n          \n  \n  \n  \n             \n             \n             About\n             \n             \n               Overview  Unit 13: Scoping\n             \n             \n                \n             \n             \n                \n             \n                  \n             \n          \n     \n  \n          \n  \n  \n  \n             \n             \n             Apr 28\n             \n             \n               Lecture  Names and values\n             \n             \n               Demo\n              \n             \n                \n             \n                  \n             \n          \n  \n  \n  \n             \n             \n             \n               Lectur2  Scoping\n             \n             \n               Demo\n              \n             \n                \n             \n                  \n             \n          \n     \n  \n          \n  \n  \n  \n             \n             \n             Apr 30\n             \n             \n               Labwork  Lab 13: Scoping (due 5/01)\n             \n             \n                \n             \n             \n                \n             \n                  \n             \n          \n     \n     \n  \n   \n  \n\n   Week 15\n\n   \n   \n   \n   \n   \n     \n  \n          \n  \n  \n  \n             \n             \n             About\n             \n             \n               Overview  RRR Week\n             \n             \n                \n             \n             \n                \n             \n                  \n             \n          \n     \n     \n  \n   \n  \n\n   Week 16\n\n   \n   \n   \n   \n   \n     \n  \n          \n  \n  \n  \n             \n             \n             May 13\n             \n             \n               Final  Final Exam 5/13 (7-10pm)\n             \n             \n                \n             \n             \n                \n             \n                  \n             \n          \n     \n     \n  \n   \nNo matching items",
+    "objectID": "units/unit5.html#lecture",
+    "href": "units/unit5.html#lecture",
+    "title": "5) dplyr",
+    "section": "",
+    "text": "In addition to learning about the “classic” way to work with data frames, we will briefly touch on an “alternative” approach for working with tables provided by the ecosystem of packages known as the \"tidyverse\": https://www.tidyverse.org\nThis week we start with the tidyverse package \"dplyr\". Simply put, \"dplyr\" comes with functions that allow you to manipulate data-tables (e.g. data-frames, and other 2-dimensional objects) using a modern and syntactic way.",
     "crumbs": [
-      "Home / Schedule"
+      "Units",
+      "5) dplyr"
+    ]
+  },
+  {
+    "objectID": "units/unit5.html#objectives",
+    "href": "units/unit5.html#objectives",
+    "title": "5) dplyr",
+    "section": "🎯 Objectives",
+    "text": "🎯 Objectives\nWe’ll go over the set of functions available in \"dplyr\" to perform common manipulations of tabular data.\n\nSelecting rows with slice(), and filter()\nSelecting columns with select()\nTransforming columns with mutate()\nArranging rows with arrange()\nGrouping data with group_by()\nSummarizing data with summarize()",
+    "crumbs": [
+      "Units",
+      "5) dplyr"
+    ]
+  },
+  {
+    "objectID": "units/unit5.html#reading",
+    "href": "units/unit5.html#reading",
+    "title": "5) dplyr",
+    "section": "📚 Reading",
+    "text": "📚 Reading\n\nhttps://www.gastonsanchez.com/R-tidy-hurricanes/2-02-intro-dplyr.html",
+    "crumbs": [
+      "Units",
+      "5) dplyr"
+    ]
+  },
+  {
+    "objectID": "units/unit5.html#lab",
+    "href": "units/unit5.html#lab",
+    "title": "5) dplyr",
+    "section": "🔬 Lab",
+    "text": "🔬 Lab\nYou will get introduced to manipulation of data-tables using a modern and syntactic way following the data plying framework provided by the R package dplyr.",
+    "crumbs": [
+      "Units",
+      "5) dplyr"
     ]
   },
   {
@@ -791,6 +680,37 @@
     "crumbs": [
       "Other",
       "Email"
+    ]
+  },
+  {
+    "objectID": "staff.html",
+    "href": "staff.html",
+    "title": "Staff",
+    "section": "",
+    "text": "Append @berkeley.edu to all email addresses.\nOffice hours are subject to change.\nYou can attend OH of any staff member.\n\n\n\nInstructor: Gaston Sanchez gastonsanchez Office hours:  - Th 2-3pm, Evans 309\n\n\nGSI: Brian Fernando bmfernan Office hours: - Th 3-5pm, Evans 426 - Fr 2-4pm, Evans 426",
+    "crumbs": [
+      "Other",
+      "Staff"
+    ]
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "Info\n\n\n\nInstructor: Gaston Sanchez\nLecture: M 11am-12pm in VLSB 2040\nLab:\n\nLab 101, W 9am-10am, Evans 342 (GSI Brian)\nLab 102, W 10am-11am, Evans 342 (GSI Brian)\nLab 103, W 1pm-2pm, Evans 342 (GSI Brian)\nLab 104, W 2pm-3pm, Evans 342 (GSI Brian)\n\nCode #: 24030\nUnits: 1\nFinal Exam: Tue May-13th, 7pm-10pm, location TBD.\nDates: Jan-22 / May-02\nThis course introduces the R statistical software to students with minimal prior exposure to programming.\nThe course aims to prepare students to carry out a basic data analysis and to write simple functions. The focus is on the computational model that underlies the R language with the goal of providing a foundation for further coding.",
+    "crumbs": [
+      "About"
+    ]
+  },
+  {
+    "objectID": "about.html#more-information",
+    "href": "about.html#more-information",
+    "title": "About",
+    "section": "More Information",
+    "text": "More Information\n\nSchedule\nSyllabus\nStaff\nCommunication via email\nEd Netiquette\nQ&As",
+    "crumbs": [
+      "About"
     ]
   },
   {
@@ -926,14 +846,23 @@
     ]
   },
   {
-    "objectID": "faqs.html",
-    "href": "faqs.html",
-    "title": "Some Frequently Asked Questions",
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "STAT 33B: Intro to Adv. Prog. in R",
     "section": "",
-    "text": "Will STAT 33B be offered in hybrid mode (both in-person and remotely, simultaneously)?  No, STAT 33B will not be offered in hybrid mode. Instead, all classes and sections are to be delivered in-person. If you have time conflicts with lecture and/or section, please don’t take STAT 33B this semester.\n\nWill there be live webcast or recordings of lectures?  Unless Campus authorities decide to switch to remote instruction, there won’t be live webcast or live zoom recordings. With that said, lectures may be recorded for archival purposes, but not necessarily be shared with the class.\n\nDo you have a Covid (or other illness) policy?  Maintaining your health and that of the Berkeley community is of primary importance to course staff, so if you are feeling ill or have been exposed to illness, please do not come to class. All of the materials used in class will be posted either in this website or in bCourses. Likewise, you’re encouraged to reach out to fellow students to discuss the class materials or stop by office hours to chat with the GSI, the tutor, or the instructor.\nHaving said that, we expect you to attend lecture and lab. Past experience tells us that students who constantly miss lecture/lab tend to have a mediocre performance.\nAlso, missing lecture/lab does not give you the right to use OH as a replacement for receiving instruction. We are always willing to help you understand the learning materials during OH, but this also requires that you make an honest effort reviewing them before coming to OH.\n\nSTAT 33A or 33B?  You might be wondering what the difference is between STAT 33A and STAT 33B. Broadly speaking, the topics in STAT 33A are a subset of the topics in 33B.\n33A is designed for people that have never programmed before, the pace of certain parts is slower, and more examples are provided. 33A puts slightly more emphasis on data analysis packages than 33B. The primary goal of 33A is that students finish the course with the basic programming skills necessary for a typical data analysis or implementation of a simple algorithm.\n33B is designed for students with previous programming experience (not necessarily in R). The curriculum assumes students will already be familiar with programming concepts such as variables, if-else statements, loops, and functions, so these topics are covered more quickly than in 33A. The extra time is used to cover details about how R works at a lower level. The primary goal of 33B is that students finish the course with the programming skills necessary to help developing and maintaining software in R.\nBTW: STAT 33B is not supposed to be taken after STAT 33A.\n\nI am a concurrent student. What are my chances of enrolling in the class?  Depending on the size of the waitlist, and the available space in the labs, you may or may not have a chance to join the class. For example, there have been semesters in which only 10% of concurrent applications have been accepted. Likewise, there have been semesters in which 100% of concurrent applications have been accepted.\nKeep in mind that the approval process for concurrent enrollment students takes place between the 2nd and 3rd week of instruction, and it is a somewhat slow 2-step process, which takes some days, and it involves not only my intervention but also the participation of one of the advisors in the Dept. of Statistics.\n\nI am a grad student officially enrolled. Do you have a grading structure for grad students?  This semester we don’t have a special grading structure for graduate students. All students will be evaluated with the same criteria. See the course syllabus for more information about the grading structure.\n\nWhat if I join the class late?  If you join the class within the first two weeks, read the syllabus and lecture notes, take a look at bCourses to get a sense of any assignments that may have already passed, and visit office hours to check that you’re up to date with things.\nAfter two weeks into the semester, you’ll have too much material that you’ll need to make up, so you will have to wait to a subsequent semester to take STAT 33B.\n\nAre time conflicts allowed?  STAT 33B does not allow students to enroll with time conflicts.\n\nI would like to switch lab sections with other student. Is this possible?  You should attend the lab section you are officially enrolled in. If you have a time conflict, then do not enroll in STAT 33B this semester.\n\nIs this course a good fit if I don’t have any programming experience?  No. We expect that all of you come with previous coding experience and be already familiar with concepts such as data types, variables, functions, conditionals, and iterations.\n\nIs this course a good fit if I already have some programming experience?  It depends. This course should be a good fit if you are truly interested in learning about R and its “behind the scenes”. Having said that, if what you are looking for is a general programming course, or a statistical programming course, STAT 33B is not a good fit.\n\nCan we work in groups?  Yes, absolutely. We strongly encourage you to not work alone. Well, let me rephrase that. You should try to first work on your own (trial and error). Take notes of the things you don’t understand. Then get with other people and discuss ideas, share tips (but not the entire solution).\n\nAren’t you suppose to teach us?  Yes. But you don’t learn programming by watching someone else program. The same way that you don’t learn to swim by simply watching someone else swimming. You have to get into the pool, and do all the drills your instructor says. This is a very hands-on course, and you will be required to do a great amount of work on your own.\n\nCan I ask you to write me a Letter of Recommendation (LoR)?  One-unit courses do not provide me with enough information about students to write a strong letter of recommendation. Therefore, I am unwilling to provide a LoR based on your work on this course alone.\n\nI invited you to join my network in LinkedIn. Why haven’t you accepted my invitation?  First: Don’t take it personal. It’s not you, it’s me. Second: if you really want that I become part of your network, why don’t you talk to me in person? We can meet in OH, or you can also schedule a meeting at a different time. Let me know you better than just as a distant contact in a social media networking site.",
+    "text": "bCourses\n\n  Ed\n\n  R-DataHub\n\nNo matching items",
     "crumbs": [
-      "Other",
-      "FAQs"
+      "Home / Schedule"
+    ]
+  },
+  {
+    "objectID": "index.html#schedule",
+    "href": "index.html#schedule",
+    "title": "STAT 33B: Intro to Adv. Prog. in R",
+    "section": "Schedule 📅",
+    "text": "Schedule 📅\nTentative calendar subject to change.\n\nWeek 1\n\n   \n   \n   \n   \n   \n     \n  \n          \n  \n  \n  \n             \n             \n             About\n             \n             \n               Overview  None\n             \n             \n                \n             \n             \n                \n             \n                  \n             \n          \n     \n  \n          \n  \n  \n  \n             \n             \n             Jan 20\n             \n             \n               Lecture  No Lecture\n             \n             \n                \n             \n             \n                \n             \n                  \n             \n          \n     \n  \n          \n  \n  \n  \n             \n             \n             Jan 22\n             \n             \n               Labwork  No Lab\n             \n             \n                \n             \n             \n                \n             \n                  \n             \n          \n     \n     \n  \n   \n  \n\n   Week 2\n\n   \n   \n   \n   \n   \n     \n  \n          \n  \n  \n  \n             \n             \n             About\n             \n             \n               Overview  Unit 1: Introduction\n             \n             \n                \n             \n             \n                \n             \n                  \n             \n          \n     \n  \n          \n  \n  \n  \n             \n             \n             Jan 27\n             \n             \n               Lecture  Welcome to STAT 33B (slides)\n             \n             \n                \n             \n             \n                \n             \n                  \n             \n          \n     \n  \n          \n  \n  \n  \n             \n             \n             Jan 29\n             \n             \n               Labwork  Lab 1: Intro to R and RStudio\n             \n             \n                \n             \n             \n                \n             \n                  \n             \n          \n     \n  \n          \n  \n  \n  \n             \n             \n             HW\n             \n             \n               Homework  HW 1: Vectors (avail 2/01, due 2/14)\n             \n             \n                \n             \n             \n                \n             \n                  \n             \n          \n     \n     \n  \n   \n  \n\n   Week 3\n\n   \n   \n   \n   \n   \n     \n  \n          \n  \n  \n  \n             \n             \n             About\n             \n             \n               Overview  Unit 2: Vectors\n             \n             \n                \n             \n             \n                \n             \n                  \n             \n          \n     \n  \n          \n  \n  \n  \n             \n             \n             Feb 3\n             \n             \n               Lecture  Vectors, part 1 (notes)\n             \n             \n               Demo\n              \n             \n                \n             \n                  \n             \n          \n  \n  \n  \n             \n             \n             \n               Lectur2  Vectors, part 2 (notes)\n             \n             \n                \n             \n             \n                \n             \n                  \n             \n          \n     \n  \n          \n  \n  \n  \n             \n             \n             Feb 5\n             \n             \n               Labwork  Lab 2: Vectors  (due 2/06)\n             \n             \n                \n             \n             \n                \n             \n                  \n             \n          \n     \n     \n  \n   \n  \n\n   Week 4\n\n   \n   \n   \n   \n   \n     \n  \n          \n  \n  \n  \n             \n             \n             About\n             \n             \n               Overview  Unit 3: More Objects\n             \n             \n                \n             \n             \n                \n             \n                  \n             \n          \n     \n  \n          \n  \n  \n  \n             \n             \n             Feb 10\n             \n             \n               Lecture  Matrices (notes)\n             \n             \n               Demo\n              \n             \n                \n             \n                  \n             \n          \n  \n  \n  \n             \n             \n             \n               Lectur2  Lists (notes)\n             \n             \n                \n             \n             \n                \n             \n                  \n             \n          \n     \n  \n          \n  \n  \n  \n             \n             \n             Feb 12\n             \n             \n               Labwork  Lab 3: More Objects  (due 2/13)\n             \n             \n                \n             \n             \n                \n             \n                  \n             \n          \n     \n  \n          \n  \n  \n  \n             \n             \n             HW\n             \n             \n               Homework  HW 2: Vectors (avail 2/15, due 2/28)\n             \n             \n                \n             \n             \n                \n             \n                  \n             \n          \n     \n     \n  \n   \n  \n\n   Week 5\n\n   \n   \n   \n   \n   \n     \n  \n          \n  \n  \n  \n             \n             \n             About\n             \n             \n               Overview  Unit 4: Data Frames\n             \n             \n                \n             \n             \n                \n             \n                  \n             \n          \n     \n  \n          \n  \n  \n  \n             \n             \n             Feb 17\n             \n             \n               Lecture  HOLIDAY\n             \n             \n                \n             \n             \n                \n             \n                  \n             \n          \n  \n  \n  \n             \n             \n             \n               Lectur2  Data Frames\n             \n             \n                \n             \n             \n                \n             \n                  \n             \n          \n     \n  \n          \n  \n  \n  \n             \n             \n             Feb 19\n             \n             \n               Labwork  Lab 4: Data Frames  (due 2/20)\n             \n             \n               Demo\n              \n             \n                \n             \n                  \n             \n          \n     \n     \n  \n   \n  \n\n   Week 6\n\n   \n   \n   \n   \n   \n     \n  \n          \n  \n  \n  \n             \n             \n             About\n             \n             \n               Overview  Unit 5: Tables 1\n             \n             \n                \n             \n             \n                \n             \n                  \n             \n          \n     \n  \n          \n  \n  \n  \n             \n             \n             Feb 24\n             \n             \n               Lecture  Tables & dplyr\n             \n             \n               Demo\n              \n             \n                \n             \n                  \n             \n          \n     \n  \n          \n  \n  \n  \n             \n             \n             Feb 26\n             \n             \n               Labwork  Lab 5: dplyr (due 2/27)\n             \n             \n               Demo\n              \n             \n                \n             \n                  \n             \n          \n     \n  \n          \n  \n  \n  \n             \n             \n             HW\n             \n             \n               Homework  HW 3: Tables (avail 3/01, due 3/14)\n             \n             \n                \n             \n             \n                \n             \n                  \n             \n          \n     \n     \n  \n   \n  \n\n   Week 7\n\n   \n   \n   \n   \n   \n     \n  \n          \n  \n  \n  \n             \n             \n             About\n             \n             \n               Overview  Unit 6: Tables 2\n             \n             \n                \n             \n             \n                \n             \n                  \n             \n          \n     \n  \n          \n  \n  \n  \n             \n             \n             Mar 3\n             \n             \n               Lecture  Tables & ggplot\n             \n             \n               Demo\n              \n             \n                \n             \n                  \n             \n          \n     \n  \n          \n  \n  \n  \n             \n             \n             Mar 5\n             \n             \n               Labwork  Lab 6: ggplot (due 3/06)\n             \n             \n                \n             \n             \n                \n             \n                  \n             \n          \n     \n  \n          \n  \n  \n  \n             \n             \n             Mar 7\n             \n             \n               Quiz  Quiz-1, See announcements on bCourses\n             \n             \n                \n             \n             \n                \n             \n                  \n             \n          \n     \n     \n  \n   \n  \n\n   Week 8\n\n   \n   \n   \n   \n   \n     \n  \n          \n  \n  \n  \n             \n             \n             About\n             \n             \n               Overview  Unit 7: Conditionals\n             \n             \n                \n             \n             \n                \n             \n                  \n             \n          \n     \n  \n          \n  \n  \n  \n             \n             \n             Mar 10\n             \n             \n               Lecture  Conditionals (notes)\n             \n             \n               Demo\n              \n             \n                \n             \n                  \n             \n          \n  \n  \n  \n             \n             \n             \n               Lectur2  Expressions (notes)\n             \n             \n                \n             \n             \n                \n             \n                  \n             \n          \n     \n  \n          \n  \n  \n  \n             \n             \n             Mar 12\n             \n             \n               Labwork  Lab 7: Conditionals (due 3/13)\n             \n             \n                \n             \n             \n                \n             \n                  \n             \n          \n     \n  \n          \n  \n  \n  \n             \n             \n             HW\n             \n             \n               Homework  HW 4: Control Flow (avail 3/15, due 4/04)\n             \n             \n                \n             \n             \n                \n             \n                  \n             \n          \n     \n     \n  \n   \n  \n\n   Week 9\n\n   \n   \n   \n   \n   \n     \n  \n          \n  \n  \n  \n             \n             \n             About\n             \n             \n               Overview  Unit 8: Iterations\n             \n             \n                \n             \n             \n                \n             \n                  \n             \n          \n     \n  \n          \n  \n  \n  \n             \n             \n             Mar 17\n             \n             \n               Lecture  For loops (notes)\n             \n             \n               Demo\n              \n             \n                \n             \n                  \n             \n          \n  \n  \n  \n             \n             \n             \n               Lectur2  While loops (notes)\n             \n             \n                \n             \n             \n                \n             \n                  \n             \n          \n     \n  \n          \n  \n  \n  \n             \n             \n             Mar 19\n             \n             \n               Labwork  Lab 8: Iterations (due 3/20)\n             \n             \n                \n             \n             \n                \n             \n                  \n             \n          \n     \n     \n  \n   \n  \n\n   Week Spring Recess\n\n   \n   \n   \n   \n   \n     \n  \n          \n  \n  \n  \n             \n             \n             Mar 24\n             \n             \n               Lectur2  Spring Recess\n             \n             \n                \n             \n             \n                \n             \n                  \n             \n          \n     \n  \n          \n  \n  \n  \n             \n             \n             Mar 26\n             \n             \n               Lectur2  Spring Recess\n             \n             \n                \n             \n             \n                \n             \n                  \n             \n          \n     \n     \n  \n   \n  \n\n   Week 10\n\n   \n   \n   \n   \n   \n     \n  \n          \n  \n  \n  \n             \n             \n             About\n             \n             \n               Overview  Unit 9: Functions\n             \n             \n                \n             \n             \n                \n             \n                  \n             \n          \n     \n  \n          \n  \n  \n  \n             \n             \n             Mar 31\n             \n             \n               Lecture  Functions (notes)\n             \n             \n               Demo\n              \n             \n                \n             \n                  \n             \n          \n     \n  \n          \n  \n  \n  \n             \n             \n             Apr 2\n             \n             \n               Labwork  Lab 9: Functions (due 4/03)\n             \n             \n                \n             \n             \n                \n             \n                  \n             \n          \n     \n  \n          \n  \n  \n  \n             \n             \n             HW\n             \n             \n               Homework  HW 5: Programming (avail 4/05, due 4/18)\n             \n             \n                \n             \n             \n                \n             \n                  \n             \n          \n     \n     \n  \n   \n  \n\n   Week 11\n\n   \n   \n   \n   \n   \n     \n  \n          \n  \n  \n  \n             \n             \n             About\n             \n             \n               Overview  Unit 10: Imports & Exports I\n             \n             \n                \n             \n             \n                \n             \n                  \n             \n          \n     \n  \n          \n  \n  \n  \n             \n             \n             Apr 7\n             \n             \n               Lecture  Importing (notes)\n             \n             \n               Demo\n              \n             \n                \n             \n                  \n             \n          \n     \n  \n          \n  \n  \n  \n             \n             \n             Apr 9\n             \n             \n               Labwork  Lab 10: Imports (due 4/10)\n             \n             \n                \n             \n             \n                \n             \n                  \n             \n          \n     \n  \n          \n  \n  \n  \n             \n             \n             Apr 11\n             \n             \n               Quiz  Quiz-2, See announcements on bCourses\n             \n             \n                \n             \n             \n                \n             \n                  \n             \n          \n     \n     \n  \n   \n  \n\n   Week 12\n\n   \n   \n   \n   \n   \n     \n  \n          \n  \n  \n  \n             \n             \n             About\n             \n             \n               Overview  Unit 11: Imports & Exports II\n             \n             \n                \n             \n             \n                \n             \n                  \n             \n          \n     \n  \n          \n  \n  \n  \n             \n             \n             Apr 14\n             \n             \n               Lecture  Exporting (notes)\n             \n             \n               Demo\n              \n             \n                \n             \n                  \n             \n          \n     \n  \n          \n  \n  \n  \n             \n             \n             Apr 16\n             \n             \n               Labwork  Lab 11: Exports (due 4/17)\n             \n             \n                \n             \n             \n                \n             \n                  \n             \n          \n     \n  \n          \n  \n  \n  \n             \n             \n             HW\n             \n             \n               Homework  HW 6: Programming (avail 4/19, due 5/02)\n             \n             \n                \n             \n             \n                \n             \n                  \n             \n          \n     \n     \n  \n   \n  \n\n   Week 13\n\n   \n   \n   \n   \n   \n     \n  \n          \n  \n  \n  \n             \n             \n             About\n             \n             \n               Overview  Unit 12: Performance\n             \n             \n                \n             \n             \n                \n             \n                  \n             \n          \n     \n  \n          \n  \n  \n  \n             \n             \n             Apr 21\n             \n             \n               Lecture  Performance\n             \n             \n               Demo\n              \n             \n                \n             \n                  \n             \n          \n  \n  \n  \n             \n             \n             \n               Lectur2  Profiling\n             \n             \n                \n             \n             \n                \n             \n                  \n             \n          \n     \n  \n          \n  \n  \n  \n             \n             \n             Apr 23\n             \n             \n               Labwork  Lab 12: Performance (due 4/24)\n             \n             \n                \n             \n             \n                \n             \n                  \n             \n          \n     \n     \n  \n   \n  \n\n   Week 14\n\n   \n   \n   \n   \n   \n     \n  \n          \n  \n  \n  \n             \n             \n             About\n             \n             \n               Overview  Unit 13: Scoping\n             \n             \n                \n             \n             \n                \n             \n                  \n             \n          \n     \n  \n          \n  \n  \n  \n             \n             \n             Apr 28\n             \n             \n               Lecture  Names and values\n             \n             \n               Demo\n              \n             \n                \n             \n                  \n             \n          \n  \n  \n  \n             \n             \n             \n               Lectur2  Scoping\n             \n             \n               Demo\n              \n             \n                \n             \n                  \n             \n          \n     \n  \n          \n  \n  \n  \n             \n             \n             Apr 30\n             \n             \n               Labwork  Lab 13: Scoping (due 5/01)\n             \n             \n                \n             \n             \n                \n             \n                  \n             \n          \n     \n     \n  \n   \n  \n\n   Week 15\n\n   \n   \n   \n   \n   \n     \n  \n          \n  \n  \n  \n             \n             \n             About\n             \n             \n               Overview  RRR Week\n             \n             \n                \n             \n             \n                \n             \n                  \n             \n          \n     \n     \n  \n   \n  \n\n   Week 16\n\n   \n   \n   \n   \n   \n     \n  \n          \n  \n  \n  \n             \n             \n             May 13\n             \n             \n               Final  Final Exam 5/13 (7-10pm)\n             \n             \n                \n             \n             \n                \n             \n                  \n             \n          \n     \n     \n  \n   \nNo matching items",
+    "crumbs": [
+      "Home / Schedule"
     ]
   },
   {
@@ -992,58 +921,168 @@
     ]
   },
   {
-    "objectID": "units/unit13.html",
-    "href": "units/unit13.html",
-    "title": "13) Scoping",
+    "objectID": "units/unit6.html",
+    "href": "units/unit6.html",
+    "title": "6) ggplot",
     "section": "",
-    "text": "This week we review more technical aspects of functions in R. Specifically, we will focus on the scoping mechanisms used by R to find the value of a variable.",
+    "text": "Simply put: a graphic involves mapping data to geometric objects and their visual attributes. This is the underlying framework behind the mechanics and core functions available in \"ggplot2\" for creating simple graphics:\n\nBegin your graphic specification with ggplot()\nIndicate where the data comes from\nEstablish which variables are going to be mapped into visual attributes: aes()\nDecide what kind of geometric object(s) will be used to display data; e.g. geom_point()\nOptional: do you need to use facets?\nOptional: do you need to explicitly use one or more statistical transformations?\nOptional: do you need to explicitly set a non-default system of coordinates?\nOptional: do you need to explicitly use a non-default theme of graphical elements?",
     "crumbs": [
       "Units",
-      "13) Scoping"
+      "6) ggplot"
     ]
   },
   {
-    "objectID": "units/unit13.html#lecture",
-    "href": "units/unit13.html#lecture",
-    "title": "13) Scoping",
+    "objectID": "units/unit6.html#lecture",
+    "href": "units/unit6.html#lecture",
+    "title": "6) ggplot",
     "section": "",
-    "text": "This week we review more technical aspects of functions in R. Specifically, we will focus on the scoping mechanisms used by R to find the value of a variable.",
+    "text": "Simply put: a graphic involves mapping data to geometric objects and their visual attributes. This is the underlying framework behind the mechanics and core functions available in \"ggplot2\" for creating simple graphics:\n\nBegin your graphic specification with ggplot()\nIndicate where the data comes from\nEstablish which variables are going to be mapped into visual attributes: aes()\nDecide what kind of geometric object(s) will be used to display data; e.g. geom_point()\nOptional: do you need to use facets?\nOptional: do you need to explicitly use one or more statistical transformations?\nOptional: do you need to explicitly set a non-default system of coordinates?\nOptional: do you need to explicitly use a non-default theme of graphical elements?",
     "crumbs": [
       "Units",
-      "13) Scoping"
+      "6) ggplot"
     ]
   },
   {
-    "objectID": "units/unit13.html#objectives",
-    "href": "units/unit13.html#objectives",
-    "title": "13) Scoping",
+    "objectID": "units/unit6.html#objectives",
+    "href": "units/unit6.html#objectives",
+    "title": "6) ggplot",
     "section": "🎯 Objectives",
-    "text": "🎯 Objectives\n\nProvide an example of “name masking”\nProvide an example of “functions versus variables”\nProvide an example of “fresh start”\nProvide an example of “dynamic lookup”",
+    "text": "🎯 Objectives\nAt the end of this week you will be able to:\n\nGet a first contact with \"ggplot2\"\nDescribe the purpose of the aesthetic mapping function aes()\nDescribe the notion of “layers” and how to use them for making a graphic using \"ggplot2\"",
     "crumbs": [
       "Units",
-      "13) Scoping"
+      "6) ggplot"
     ]
   },
   {
-    "objectID": "units/unit13.html#reading",
-    "href": "units/unit13.html#reading",
-    "title": "13) Scoping",
+    "objectID": "units/unit6.html#reading",
+    "href": "units/unit6.html#reading",
+    "title": "6) ggplot",
     "section": "📚 Reading",
-    "text": "📚 Reading\n\nhttps://adv-r.hadley.nz/functions.html#lexical-scoping\nhttps://adv-r.hadley.nz/names-values.html\nhttp://adv-r.had.co.nz/Environments.html",
+    "text": "📚 Reading\n\nhttps://www.gastonsanchez.com/R-tidy-hurricanes/2-01-intro-ggplot.html\nhttps://www.gastonsanchez.com/R-tidy-hurricanes/3-02-storms-1975.html",
     "crumbs": [
       "Units",
-      "13) Scoping"
+      "6) ggplot"
     ]
   },
   {
-    "objectID": "units/unit13.html#lab",
-    "href": "units/unit13.html#lab",
-    "title": "13) Scoping",
+    "objectID": "units/unit6.html#lab",
+    "href": "units/unit6.html#lab",
+    "title": "6) ggplot",
     "section": "🔬 Lab",
-    "text": "🔬 Lab\nWork with some basic examples to understand scoping rules and environments.",
+    "text": "🔬 Lab\nYou’ll learn how to create basic graphics with ggplot2 functions.",
     "crumbs": [
       "Units",
-      "13) Scoping"
+      "6) ggplot"
+    ]
+  },
+  {
+    "objectID": "units/unit12.html",
+    "href": "units/unit12.html",
+    "title": "12) Performance",
+    "section": "",
+    "text": "This week we review more underlying principles that have to do with performance in R.",
+    "crumbs": [
+      "Units",
+      "12) Performance"
+    ]
+  },
+  {
+    "objectID": "units/unit12.html#lecture",
+    "href": "units/unit12.html#lecture",
+    "title": "12) Performance",
+    "section": "",
+    "text": "This week we review more underlying principles that have to do with performance in R.",
+    "crumbs": [
+      "Units",
+      "12) Performance"
+    ]
+  },
+  {
+    "objectID": "units/unit12.html#objectives",
+    "href": "units/unit12.html#objectives",
+    "title": "12) Performance",
+    "section": "🎯 Objectives",
+    "text": "🎯 Objectives\nAt the end of this week you will be able to:\n\nProvide an example of copy-on-modify policy.\nApply the function system.time() to time commands in R.\nApply yhe function Rprof() and summaryRprof() to profile code in R.",
+    "crumbs": [
+      "Units",
+      "12) Performance"
+    ]
+  },
+  {
+    "objectID": "units/unit12.html#reading",
+    "href": "units/unit12.html#reading",
+    "title": "12) Performance",
+    "section": "📚 Reading",
+    "text": "📚 Reading\n\nhttp://adv-r.had.co.nz/Performance.html\nhttps://adv-r.hadley.nz/perf-measure.html",
+    "crumbs": [
+      "Units",
+      "12) Performance"
+    ]
+  },
+  {
+    "objectID": "units/unit12.html#lab",
+    "href": "units/unit12.html#lab",
+    "title": "12) Performance",
+    "section": "🔬 Lab",
+    "text": "🔬 Lab\nPractice measuring performance.",
+    "crumbs": [
+      "Units",
+      "12) Performance"
+    ]
+  },
+  {
+    "objectID": "units/unit7.html",
+    "href": "units/unit7.html",
+    "title": "7) Conditionals",
+    "section": "",
+    "text": "This week we introduce the notion of R expressions, and we provide the syntax used by R to handle if-else statements and related conditionals constructs.",
+    "crumbs": [
+      "Units",
+      "7) Conditionals"
+    ]
+  },
+  {
+    "objectID": "units/unit7.html#lecture",
+    "href": "units/unit7.html#lecture",
+    "title": "7) Conditionals",
+    "section": "",
+    "text": "This week we introduce the notion of R expressions, and we provide the syntax used by R to handle if-else statements and related conditionals constructs.",
+    "crumbs": [
+      "Units",
+      "7) Conditionals"
+    ]
+  },
+  {
+    "objectID": "units/unit7.html#objectives",
+    "href": "units/unit7.html#objectives",
+    "title": "7) Conditionals",
+    "section": "🎯 Objectives",
+    "text": "🎯 Objectives\nAt the end of this week you will be able to:\n\nWrite if-else statements to handle simple conditions\nUse the vectorized function ifelse()\nDescribe what curly braces {...} are used for in R.",
+    "crumbs": [
+      "Units",
+      "7) Conditionals"
+    ]
+  },
+  {
+    "objectID": "units/unit7.html#reading",
+    "href": "units/unit7.html#reading",
+    "title": "7) Conditionals",
+    "section": "📚 Reading",
+    "text": "📚 Reading\n\nhttps://www.gastonsanchez.com/R-coding-basics/5-03-conditionals.html\nhttps://www.gastonsanchez.com/R-coding-basics/5-02-expressions.html",
+    "crumbs": [
+      "Units",
+      "7) Conditionals"
+    ]
+  },
+  {
+    "objectID": "units/unit7.html#lab",
+    "href": "units/unit7.html#lab",
+    "title": "7) Conditionals",
+    "section": "🔬 Lab",
+    "text": "🔬 Lab\nWork with some basic if-else statements and related functions.",
+    "crumbs": [
+      "Units",
+      "7) Conditionals"
     ]
   },
   {
@@ -1157,182 +1196,6 @@
     ]
   },
   {
-    "objectID": "units/unit1.html",
-    "href": "units/unit1.html",
-    "title": "1) Intro",
-    "section": "",
-    "text": "Welcome to STAT 33B. Our first meeting is on Monday Jan-27 where we begin with the usual review of the course policies, logistics, overall expectations, topics in a nutshell, etc.",
-    "crumbs": [
-      "Units",
-      "1) Intro"
-    ]
-  },
-  {
-    "objectID": "units/unit1.html#lecture",
-    "href": "units/unit1.html#lecture",
-    "title": "1) Intro",
-    "section": "",
-    "text": "Welcome to STAT 33B. Our first meeting is on Monday Jan-27 where we begin with the usual review of the course policies, logistics, overall expectations, topics in a nutshell, etc.",
-    "crumbs": [
-      "Units",
-      "1) Intro"
-    ]
-  },
-  {
-    "objectID": "units/unit1.html#lab",
-    "href": "units/unit1.html#lab",
-    "title": "1) Intro",
-    "section": "🔬 Lab",
-    "text": "🔬 Lab\nThe first lab is on Wednesday Jan-29 where you’ll get started with R and RStudio: first, we want to make sure everybody has installed both programs; and then we will provide an introductory review of RStudio’s workspace, as well as a brief intro to Quarto notebooks.\nAlso, we’ll review the basics of Quarto Markdown (qmd) files, how to “compile” them and produce an HTML document. Also, you’ll have the opportunity to make sure you know how to submit a qmd & HTML files to bCourses.\nBTW: there’s nothing to submit this week.",
-    "crumbs": [
-      "Units",
-      "1) Intro"
-    ]
-  },
-  {
-    "objectID": "units/unit1.html#activities",
-    "href": "units/unit1.html#activities",
-    "title": "1) Intro",
-    "section": "🔔 Activities",
-    "text": "🔔 Activities\nIf you haven’t yet, please spend some time outside class to review the following documentation:\n\nsyllabus\ncommunication via email\nsome frequently asked questions",
-    "crumbs": [
-      "Units",
-      "1) Intro"
-    ]
-  },
-  {
-    "objectID": "units/unit1.html#install-r-rstudio",
-    "href": "units/unit1.html#install-r-rstudio",
-    "title": "1) Intro",
-    "section": "📢 Install R & RStudio",
-    "text": "📢 Install R & RStudio\nFor those of you that don’t have either R or RStudio, download and install these programs (both are free, and they are available for Mac, Windows, and Linux computers)\n\nInstall R\nInstall RStudio (Desktop free version)",
-    "crumbs": [
-      "Units",
-      "1) Intro"
-    ]
-  },
-  {
-    "objectID": "units/unit5.html",
-    "href": "units/unit5.html",
-    "title": "5) dplyr",
-    "section": "",
-    "text": "In addition to learning about the “classic” way to work with data frames, we will briefly touch on an “alternative” approach for working with tables provided by the ecosystem of packages known as the \"tidyverse\": https://www.tidyverse.org\nThis week we start with the tidyverse package \"dplyr\". Simply put, \"dplyr\" comes with functions that allow you to manipulate data-tables (e.g. data-frames, and other 2-dimensional objects) using a modern and syntactic way.",
-    "crumbs": [
-      "Units",
-      "5) dplyr"
-    ]
-  },
-  {
-    "objectID": "units/unit5.html#lecture",
-    "href": "units/unit5.html#lecture",
-    "title": "5) dplyr",
-    "section": "",
-    "text": "In addition to learning about the “classic” way to work with data frames, we will briefly touch on an “alternative” approach for working with tables provided by the ecosystem of packages known as the \"tidyverse\": https://www.tidyverse.org\nThis week we start with the tidyverse package \"dplyr\". Simply put, \"dplyr\" comes with functions that allow you to manipulate data-tables (e.g. data-frames, and other 2-dimensional objects) using a modern and syntactic way.",
-    "crumbs": [
-      "Units",
-      "5) dplyr"
-    ]
-  },
-  {
-    "objectID": "units/unit5.html#objectives",
-    "href": "units/unit5.html#objectives",
-    "title": "5) dplyr",
-    "section": "🎯 Objectives",
-    "text": "🎯 Objectives\nWe’ll go over the set of functions available in \"dplyr\" to perform common manipulations of tabular data.\n\nSelecting rows with slice(), and filter()\nSelecting columns with select()\nTransforming columns with mutate()\nArranging rows with arrange()\nGrouping data with group_by()\nSummarizing data with summarize()",
-    "crumbs": [
-      "Units",
-      "5) dplyr"
-    ]
-  },
-  {
-    "objectID": "units/unit5.html#reading",
-    "href": "units/unit5.html#reading",
-    "title": "5) dplyr",
-    "section": "📚 Reading",
-    "text": "📚 Reading\n\nhttps://www.gastonsanchez.com/R-tidy-hurricanes/2-02-intro-dplyr.html",
-    "crumbs": [
-      "Units",
-      "5) dplyr"
-    ]
-  },
-  {
-    "objectID": "units/unit5.html#lab",
-    "href": "units/unit5.html#lab",
-    "title": "5) dplyr",
-    "section": "🔬 Lab",
-    "text": "🔬 Lab\nYou will get introduced to manipulation of data-tables using a modern and syntactic way following the data plying framework provided by the R package dplyr.",
-    "crumbs": [
-      "Units",
-      "5) dplyr"
-    ]
-  },
-  {
-    "objectID": "units/unit6.html",
-    "href": "units/unit6.html",
-    "title": "6) ggplot",
-    "section": "",
-    "text": "Simply put: a graphic involves mapping data to geometric objects and their visual attributes. This is the underlying framework behind the mechanics and core functions available in \"ggplot2\" for creating simple graphics:\n\nBegin your graphic specification with ggplot()\nIndicate where the data comes from\nEstablish which variables are going to be mapped into visual attributes: aes()\nDecide what kind of geometric object(s) will be used to display data; e.g. geom_point()\nOptional: do you need to use facets?\nOptional: do you need to explicitly use one or more statistical transformations?\nOptional: do you need to explicitly set a non-default system of coordinates?\nOptional: do you need to explicitly use a non-default theme of graphical elements?",
-    "crumbs": [
-      "Units",
-      "6) ggplot"
-    ]
-  },
-  {
-    "objectID": "units/unit6.html#lecture",
-    "href": "units/unit6.html#lecture",
-    "title": "6) ggplot",
-    "section": "",
-    "text": "Simply put: a graphic involves mapping data to geometric objects and their visual attributes. This is the underlying framework behind the mechanics and core functions available in \"ggplot2\" for creating simple graphics:\n\nBegin your graphic specification with ggplot()\nIndicate where the data comes from\nEstablish which variables are going to be mapped into visual attributes: aes()\nDecide what kind of geometric object(s) will be used to display data; e.g. geom_point()\nOptional: do you need to use facets?\nOptional: do you need to explicitly use one or more statistical transformations?\nOptional: do you need to explicitly set a non-default system of coordinates?\nOptional: do you need to explicitly use a non-default theme of graphical elements?",
-    "crumbs": [
-      "Units",
-      "6) ggplot"
-    ]
-  },
-  {
-    "objectID": "units/unit6.html#objectives",
-    "href": "units/unit6.html#objectives",
-    "title": "6) ggplot",
-    "section": "🎯 Objectives",
-    "text": "🎯 Objectives\nAt the end of this week you will be able to:\n\nGet a first contact with \"ggplot2\"\nDescribe the purpose of the aesthetic mapping function aes()\nDescribe the notion of “layers” and how to use them for making a graphic using \"ggplot2\"",
-    "crumbs": [
-      "Units",
-      "6) ggplot"
-    ]
-  },
-  {
-    "objectID": "units/unit6.html#reading",
-    "href": "units/unit6.html#reading",
-    "title": "6) ggplot",
-    "section": "📚 Reading",
-    "text": "📚 Reading\n\nhttps://www.gastonsanchez.com/R-tidy-hurricanes/2-01-intro-ggplot.html\nhttps://www.gastonsanchez.com/R-tidy-hurricanes/3-02-storms-1975.html",
-    "crumbs": [
-      "Units",
-      "6) ggplot"
-    ]
-  },
-  {
-    "objectID": "units/unit6.html#lab",
-    "href": "units/unit6.html#lab",
-    "title": "6) ggplot",
-    "section": "🔬 Lab",
-    "text": "🔬 Lab\nYou’ll learn how to create basic graphics with ggplot2 functions.",
-    "crumbs": [
-      "Units",
-      "6) ggplot"
-    ]
-  },
-  {
-    "objectID": "staff.html",
-    "href": "staff.html",
-    "title": "Staff",
-    "section": "",
-    "text": "Append @berkeley.edu to all email addresses.\nOffice hours are subject to change.\nYou can attend OH of any staff member.\n\n\n\nInstructor: Gaston Sanchez gastonsanchez Office hours:  - Th 2-3pm, Evans 309\n\n\nGSI: Brian Fernando bmfernan Office hours: - Th 3-5pm, Evans 426 - Fr 2-4pm, Evans 426",
-    "crumbs": [
-      "Other",
-      "Staff"
-    ]
-  },
-  {
     "objectID": "license.html",
     "href": "license.html",
     "title": "License",
@@ -1355,73 +1218,14 @@
     ]
   },
   {
-    "objectID": "spring-2025/units/macros.html",
-    "href": "spring-2025/units/macros.html",
-    "title": "",
+    "objectID": "cheatsheets.html",
+    "href": "cheatsheets.html",
+    "title": "Cheat Sheets",
     "section": "",
-    "text": "\\[\n\\newcommand{\\trans}{^\\mathsf{T}}\n\\newcommand{\\eps}{\\epsilon}\n\\]"
-  },
-  {
-    "objectID": "spring-2025/units/unit3.html",
-    "href": "spring-2025/units/unit3.html",
-    "title": "Unit 3: More",
-    "section": "",
-    "text": "[UNDER CONSTRUCTION]\nThis is an example of using qmd as the source document with pdf as one target. I’ve taken out the qmd stuff that doesn’t seem to render to pdf."
-  },
-  {
-    "objectID": "spring-2025/units/unit3.html#evaluated-python-code-chunk-with-a-plot",
-    "href": "spring-2025/units/unit3.html#evaluated-python-code-chunk-with-a-plot",
-    "title": "Unit 3: More",
-    "section": "Evaluated Python code chunk, with a plot",
-    "text": "Evaluated Python code chunk, with a plot\n\n\nCode\nimport numpy as np\nx = np.random.normal(size=100)\nimport matplotlib.pyplot as plt\nplt.hist(x)\nplt.show()\nnp.mean(x)\n\n\n\n\n\n\n\n\n\nnp.float64(0.05238942771881025)"
-  },
-  {
-    "objectID": "spring-2025/units/unit3.html#latex",
-    "href": "spring-2025/units/unit3.html#latex",
-    "title": "Unit 3: More",
-    "section": "LaTeX",
-    "text": "LaTeX\n\\[\n\\theta = \\int_0^\\infty f(x,\\theta)d\\theta\n\\]"
-  },
-  {
-    "objectID": "spring-2025/units/unit3.html#latex-macro",
-    "href": "spring-2025/units/unit3.html#latex-macro",
-    "title": "Unit 3: More",
-    "section": "LaTeX macro",
-    "text": "LaTeX macro\n\nWarning: having include-before-body in the yaml header of this file, as seemingly needed to enable macros, causes extra space at top of page.\n\n\\[\nA = X \\trans Y\n\\]"
-  },
-  {
-    "objectID": "spring-2025/staff.html",
-    "href": "spring-2025/staff.html",
-    "title": "Staff",
-    "section": "",
-    "text": "[UNDER CONSTRUCTION]\nOffice hours are subject to change.\n\n\n\nInstructor: Person X x@berkeley.edu Office hours:  - Thursday 3pm-5pm, Evans 309  - Friday 2:00pm-4:30pm, Evans 309\n\n\nGSI: Person Y y@berkeley.edu Office hours: - Monday 11am-12pm, Evans 432 - Tuesday 4pm-5pm, Evans 432 - Wednesday 2pm-3pm, Evans 432 - Friday 12pm-1pm, Evans 432\n\n\nTutor: Person Z z@berkeley.edu Office hours:  - Wednesday 2:30pm - 4:30pm, Evans 434 - Sunday 2pm - 6pm, Zoom\n\n\nTutor: Person W w@berkeley.edu Office hours:  - Wednesday 10am-2pm, Evans 432 - Thursday 3-5pm, Evans 434"
-  },
-  {
-    "objectID": "spring-2025/license.html",
-    "href": "spring-2025/license.html",
-    "title": "License",
-    "section": "",
-    "text": "This work is licensed under a Creative Commons Attribution 4.0 International License."
-  },
-  {
-    "objectID": "spring-2025/data.html",
-    "href": "spring-2025/data.html",
-    "title": "Data",
-    "section": "",
-    "text": "[UNDER CONSTRUCTION]\nWe’ll use data from several real world situations in class."
-  },
-  {
-    "objectID": "spring-2025/data.html#data-1",
-    "href": "spring-2025/data.html#data-1",
-    "title": "Data",
-    "section": "Data 1",
-    "text": "Data 1"
-  },
-  {
-    "objectID": "spring-2025/data.html#data-2",
-    "href": "spring-2025/data.html#data-2",
-    "title": "Data",
-    "section": "Data 2",
-    "text": "Data 2"
+    "text": "Cheat sheets are your friends, use them at all times.\n\nrstudio-IDE-cheatsheet.pdf\nrmarkdown-cheatsheet-2.0.pdf\nbase-r-cheatsheet.pdf\ndplyr-cheatsheet.pdf\nggplot2-cheatsheet-2.1.pdf\ndata-import-cheatsheet.pdf",
+    "crumbs": [
+      "Other",
+      "Cheatsheets"
+    ]
   }
 ]
